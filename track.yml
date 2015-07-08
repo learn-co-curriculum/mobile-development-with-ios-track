@@ -1,0 +1,857 @@
+---
+track:
+    title: Mobile Development with iOS
+    uuid: db6727f9-ee8c-4bad-9485-1746c0d70315
+    topics:
+    -   title: Getting Started
+        uuid: e82d657c-6542-45e8-b938-8c66dd08f588
+        units:
+        -   title: Command Line and BASH
+            uuid: 5ec075f3-43cc-473d-9fdc-73490fc058ad
+            lessons:
+            -   title: Intro to the Shell
+                uuid: 7c02d4dc-1cf2-41fb-81cc-29a963f492d7
+                contents:
+                -   title: Intro To The Shell
+                    source: https://github.com/learn-co-curriculum/intro-to-the-shell
+                    uuid: 7963b1a0-f728-4b72-af41-dce544dbdec4
+            -   title: Opening a Terminal
+                uuid: 16744e91-ce68-4e84-b28e-9a4ef4c2398e
+                contents:
+                -   title: First Terminal
+                    source: https://github.com/learn-co-curriculum/first-terminal
+                    uuid: d616dd34-2ea0-4464-9146-09f563a36969
+            -   title: Bash Tutorial
+                uuid: 1727d2cc-21ed-4e1a-bfed-0d47f61ebb0e
+                contents:
+                -   title: Bash Tutorial
+                    source: https://github.com/learn-co-curriculum/bash-tutorial
+                    uuid: 7c9daf3d-9726-4a9e-9f12-b9b37e0686d6
+            -   title: CLI Basics
+                uuid: 9209116d-3062-4dc2-9317-8e28dbd9681c
+                contents:
+                -   title: Cli Basics
+                    source: https://github.com/learn-co-curriculum/cli-basics
+                    uuid: 9ce771b4-204f-46d3-864b-317dd4b2b104
+        -   title: Verifying Your Environment
+            uuid: 8b51b551-1942-4c56-80b3-e7c02927c9f1
+            lessons:
+            -   title: Environment Setup Summary
+                uuid: a691f1ba-1130-4159-88ed-820a34913ead
+                contents:
+                -   title: Ios Environment Setup Summary
+                    source: https://github.com/learn-co-curriculum/ios-environment-setup-summary
+                    uuid: 96885d01-a89f-48cb-b99a-7ad0d95ff382
+        -   title: Git and Github
+            uuid: 4640c8cd-2f5b-4239-814a-7e81b161d2fe
+            lessons:
+            -   title: Version Control 101
+                uuid: 94994650-3320-48da-b924-75fca219cad6
+                contents:
+                -   title: Git Version Control 101
+                    source: https://github.com/learn-co-curriculum/git-version-control-101
+                    uuid: a1d4e6be-8376-4d40-b107-9197c1dd3e90
+            -   title: Enough Git for Learn
+                uuid: 34618a73-d6a5-48b0-b6cf-ff10c4df68c6
+                contents:
+                -   title: Enough Git For Learn Co
+                    source: https://github.com/learn-co-curriculum/enough-git-for-learn-co
+                    uuid: 5d7edd41-4079-4aa2-ab6c-772f69c814ca
+            -   title: 'Quiz: Git Basics'
+                uuid: cae06dc7-a681-4570-9d85-32a010bf0ae3
+                contents:
+                -   title: Git Github Learn Quiz
+                    source: https://github.com/learn-co-curriculum/git-github-learn-quiz
+                    uuid: 00d91eb2-1380-4d33-93c1-43be3f7f8bf4
+            -   title: Your First Lab
+                uuid: a948dcb7-bbc1-4979-bd15-8aa9a748b316
+                contents:
+                -   title: Ios First Lab
+                    source: https://github.com/learn-co-curriculum/ios-first-lab
+                    uuid: 8036255e-3a1b-4702-ae6d-6962c1ff9d32
+    -   title: Objective-C Basics
+        uuid: 0f21fcc4-293a-408f-ad67-2dd047db2196
+        units:
+        -   title: Basic Objective-C
+            uuid: 439d7590-840b-466d-a4c7-2741d71ca6a4
+            lessons:
+            -   title: Intro to XCode
+                uuid: 192be27f-f242-49a9-b48b-2e71ae6ebb37
+                contents:
+                -   title: Reading Ios Intro To Xcode
+                    source: https://github.com/learn-co-curriculum/reading-ios-intro-to-xcode
+                    uuid: c1b2d55a-4e7b-4347-bd1e-9ec07b5ecf1e
+            -   title: Write Your First Program!
+                uuid: 965cb444-680e-4572-a832-1be625385256
+                contents:
+                -   title: Ios Your First Ns Log
+                    source: https://github.com/learn-co-curriculum/ios-your-first-NSLog
+                    uuid: 26380a43-3e1a-4a10-bf47-7000232ca312
+            -   title: Variables
+                uuid: 8ae3ac62-1bff-407e-9962-a08dcf8a5735
+                contents:
+                -   title: Reading Ios Variables And Data Types
+                    source: https://github.com/learn-co-curriculum/reading-ios-variables-and-data-types
+                    uuid: 09d799f1-b1df-43df-af61-b4862700a31d
+            -   title: NSStrings
+                uuid: a2c3a4aa-4a34-459d-9295-7df51a18213b
+                contents:
+                -   title: Reading Ios Things Nsstring Can Do
+                    source: https://github.com/learn-co-curriculum/reading-ios-things-nsstring-can-do
+                    uuid: 2ec3cbec-cc37-474e-b844-fbd3b9abb97b
+            -   title: Calling Methods
+                uuid: f5b276e4-c964-4aa9-becb-654933e2136e
+                contents:
+                -   title: Reading Ios Using Methods
+                    source: https://github.com/learn-co-curriculum/reading-ios-using-methods
+                    uuid: 36f87a51-0b36-45c8-bcaf-73f5c094333b
+            -   title: NSNumber and NSInteger
+                uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
+                contents:
+                -   title: Reading Ios Nsnumber V Nsinteger
+                    source: https://github.com/learn-co-curriculum/reading-ios-nsnumber-v-nsinteger
+                    uuid: 1cb7d556-f6af-4c91-ade8-725314d88893
+            -   title: Looping and Conditionals
+                uuid: 66e975a4-742b-47c1-afd3-df1c184b3f48
+                contents:
+                -   title: Reading Ios Looping And Conditionals
+                    source: https://github.com/learn-co-curriculum/reading-ios-looping-and-conditionals
+                    uuid: 82324857-4ae4-4a20-8901-cf1ef0259559
+            -   title: The 'for' Loop
+                uuid: f1c3343b-7811-47cf-91a8-5c4827b69236
+                contents:
+                -   title: Reading Ios For Loop
+                    source: https://github.com/learn-co-curriculum/reading-ios-for-loop
+                    uuid: d55875f5-ea1e-41d0-8f7f-44562fc1466b
+            -   title: NSArrays
+                uuid: 3c35f0d0-4cc2-4a15-a2b0-9070c3966e09
+                contents:
+                -   title: Reading Ios Nsarray
+                    source: https://github.com/learn-co-curriculum/reading-ios-nsarray
+                    uuid: 2707279a-6047-4956-bef8-b85d911125f5
+            -   title: WWDC Badges
+                uuid: 8c9e0416-2436-4385-a184-27ce0d5c5779
+                contents:
+                -   title: Wwdc Badges
+                    source: https://github.com/learn-co-curriculum/wwdc-badges
+                    uuid: 95e8cc08-b96c-489a-9a84-1a5dcdcf6e43
+            -   title: Reading Tests
+                uuid: 0698d408-86df-4b77-b95e-04b814f3a029
+                contents:
+                -   title: Reading Ios Using Tests
+                    source: https://github.com/learn-co-curriculum/reading-ios-using-tests
+                    uuid: c0f9d035-c5de-4756-8322-4103c5a4555d
+            -   title: Creating Methods
+                uuid: 1af0b437-8f1c-4b22-8e04-2b6eed737d4d
+                contents:
+                -   title: Reading Ios Creating Methods
+                    source: https://github.com/learn-co-curriculum/reading-ios-creatingMethods
+                    uuid: e1359813-ac55-4d79-a66b-d763384c0e90
+            -   title: WWDC Badges With Methods
+                uuid: e9b94d84-db36-46d2-8058-81b945348498
+                contents:
+                -   title: Wwdc Badges Methods
+                    source: https://github.com/learn-co-curriculum/wwdc-badges-methods
+                    uuid: d38f8d7d-26cc-4545-8aee-9919080465f7
+            -   title: Deli Counter
+                uuid: d997220e-e44e-484f-9733-eb0d706ff07f
+                contents:
+                -   title: Objc Deli
+                    source: https://github.com/learn-co-curriculum/objc-deli
+                    uuid: c77c96f9-ca43-4a1d-a11a-73ffb932fad1
+        -   title: Scope and Debugging
+            uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
+            lessons:
+            -   title: Scope
+                uuid: 93bc35d3-d179-4bf9-b6b7-47b9c5b89eab
+                contents:
+                -   title: Reading Ios Variable Scope
+                    source: https://github.com/learn-co-curriculum/reading-ios-variable-scope
+                    uuid: ae24d052-49bf-450d-b67e-239c712ed806
+            -   title: Practice With Scope
+                uuid: 8c0aa649-3aec-47a6-8c87-ae887d98bd9e
+                contents:
+                -   title: Ios Variable Scope
+                    source: https://github.com/learn-co-curriculum/ios-variable-scope
+                    uuid: 9d89d2ae-8507-42e6-90db-7681af33ca52
+            -   title: Debugging
+                uuid: fcd1aaf0-725e-4e30-a947-46c15838baac
+                contents:
+                -   title: Reading Ios Debugging
+                    source: https://github.com/learn-co-curriculum/reading-ios-debugging
+                    uuid: 6aec6529-8e42-4a01-ba4c-6c41c40824cc
+            -   title: Debugging Practice
+                uuid: 8dcfae39-d4b9-473b-b77d-37096571fa25
+                contents:
+                -   title: Objc Cartoon Collections
+                    source: https://github.com/learn-co-curriculum/objc-cartoon-collections
+                    uuid: f3882ab1-5653-4e85-a7dc-d7c8261f9042
+        -   title: Collections
+            uuid: 61ea1f39-6476-47bd-a1d9-996c68cdf4db
+            lessons:
+            -   title: More Loop Types
+                uuid: 182121be-59e7-4a2a-b827-8deb836c7e16
+                contents:
+                -   title: Reading Ios More Loop Types
+                    source: https://github.com/learn-co-curriculum/reading-ios-more-loop-types
+                    uuid: d059a457-f676-41f8-a027-fe4f4b97d75b
+            -   title: Looping Practice
+                uuid: c62ccca6-e762-4223-bc5a-d7367d85f9a7
+                contents:
+                -   title: Whiley Coyote
+                    source: https://github.com/learn-co-curriculum/whileyCoyote
+                    uuid: 3ea69ac2-bd99-4d5d-87e6-de6a1f7a332d
+            -   title: Dictionaries
+                uuid: 12030110-77f5-4c0e-b79b-5589a46fc0e0
+                contents:
+                -   title: Reading Ios Nsdictionary
+                    source: https://github.com/learn-co-curriculum/reading-ios-nsdictionary
+                    uuid: 3d9bed25-ec32-405c-9710-7dae1a66c612
+            -   title: Dictionary Practice
+                uuid: 9c4bdc49-ef90-4d71-aa76-437930184db2
+                contents:
+                -   title: Objc Apples And Holidays
+                    source: https://github.com/learn-co-curriculum/objc-ApplesAndHolidays
+                    uuid: 9c961091-82f3-4a7f-a761-35715b131f56
+            -   title: Sorting
+                uuid: 1b110d04-277b-4309-b9f6-51eb75553c2b
+                contents:
+                -   title: Reading Ios Sorting Basic
+                    source: https://github.com/learn-co-curriculum/reading-ios-sorting-basic
+                    uuid: 0715ffb5-8943-4e18-b0ea-389df887a0f4
+            -   title: Searching
+                uuid: 350e6bea-cb23-4a7d-b491-77261caa3b90
+                contents:
+                -   title: Reading Ios Filtering Basic
+                    source: https://github.com/learn-co-curriculum/reading-ios-filtering-basic
+                    uuid: 6a9be618-1894-4c04-b4fd-bf2aa2b993f3
+            -   title: Searching and Sorting Practice
+                uuid: 310f8efa-93ed-472c-b32a-8aca80a02757
+                contents:
+                -   title: Ios Collections
+                    source: https://github.com/learn-co-curriculum/ios-collections
+                    uuid: 473b8b62-ead0-4d95-80c7-83862ec4878a
+            -   title: Nesting Collections
+                uuid: b2de73d1-7ddb-4cfd-8f09-88c6fa19168a
+                contents:
+                -   title: Reading Ios Nested Data Structures
+                    source: https://github.com/learn-co-curriculum/reading-ios-nestedDataStructures
+                    uuid: ad1b1b9c-c331-4c65-bc55-7b9900b29df7
+            -   title: Nested Collections Practice
+                uuid: d4197775-d918-4acb-b86c-ae4c2c6b3992
+                contents:
+                -   title: Location Trivia Dictionaries
+                    source: https://github.com/learn-co-curriculum/locationTrivia-Dictionaries
+                    uuid: 13870ef9-ad24-4bce-9021-e9850d180a15
+    -   title: Objects in Objective-C
+        uuid: 0563c0ba-8a2e-454e-a289-12795e11b2cf
+        units:
+        -   title: Basic Objects
+            uuid: 7bcd97ef-cd9e-4c31-8fd5-da372ab20474
+            lessons:
+            -   title: Instance and Classes
+                uuid: 35ff7303-d6f7-4e8f-b25e-9a1067064c19
+                contents:
+                -   title: Reading Ios Intro To Objects
+                    source: https://github.com/learn-co-curriculum/reading-ios-introToObjects
+                    uuid: f4a8bc6f-5cf9-482a-ac74-6dd1ade7c3a1
+            -   title: Holding Data in Classes
+                uuid: 9a9938d0-e13a-4d00-b7a9-7f3f74aca671
+                contents:
+                -   title: Reading Ios Properties
+                    source: https://github.com/learn-co-curriculum/reading-ios-properties
+                    uuid: 55cfd7b5-002a-452e-be4d-4a5f55971b60
+            -   title: Instance Variables Practice
+                uuid: 265d0447-f70f-403f-8c3c-8c8167503375
+                contents:
+                -   title: Oo Sentence
+                    source: https://github.com/learn-co-curriculum/oo-sentence
+                    uuid: ee4d6d75-6b02-49b1-bf57-0aa5248595f3
+            -   title: Properties in Classes
+                uuid: 53a8fa57-2d59-41c7-bd87-adb7a6310ab1
+                contents:
+                -   title: Object Oriented People
+                    source: https://github.com/learn-co-curriculum/object-oriented-people
+                    uuid: 853c5656-f182-4941-981d-93ba778ee80c
+            -   title: Methods in Classes
+                uuid: dd4dcc00-8320-471e-90e8-7ba21b4c2842
+                contents:
+                -   title: Location Trivia Objects
+                    source: https://github.com/learn-co-curriculum/locationTrivia-objects
+                    uuid: 129d6b04-1284-41cb-9de0-6a38d378e4e9
+            -   title: Modifing Setters and Getters
+                uuid: c84daa19-02a1-4bff-ae63-13478c5ac24d
+                contents:
+                -   title: Word Play
+                    source: https://github.com/learn-co-curriculum/word-play
+                    uuid: b93ed849-4ff3-4029-9c11-9312ef107b13
+        -   title: Inheritance
+            uuid: 8c46003f-b0d2-42cf-bec2-3ba883d23029
+            lessons:
+            -   title: Intro to Inheritance
+                uuid: 265d3160-a3db-4ede-8471-aa53aa9b5228
+                contents:
+                -   title: Reading Ios Inheritance
+                    source: https://github.com/learn-co-curriculum/reading-ios-inheritance
+                    uuid: a8e33628-bab7-4947-8dcb-9ca5be818de6
+            -   title: Inheritance Practice
+                uuid: 46f0fc37-6187-4895-8ba1-ac214673172a
+                contents:
+                -   title: Oo Vehicle
+                    source: https://github.com/learn-co-curriculum/OO-Vehicle
+                    uuid: 13e575d8-aea4-4ace-938f-d0fd30ad967f
+            -   title: Initializers and Overriding
+                uuid: e6237f7b-4703-4dc6-9502-fc2ae323a4ff
+                contents:
+                -   title: Oop Cards Model
+                    source: https://github.com/learn-co-curriculum/OOP-Cards-Model
+                    uuid: b9654f03-632c-4fa8-b645-7e9e2ffe7de9
+            -   title: Converting Classes
+                uuid: 35b04363-7d92-4ed7-887a-0250d4b2e24b
+                contents:
+                -   title: Reading Objc Casting
+                    source: https://github.com/learn-co-curriculum/reading-objc-Casting
+                    uuid: 82b8ef37-b223-4591-af09-215b82c0246d
+            -   title: Casting Practice
+                uuid: e3e9d99e-4ba7-48c6-bb26-f453dce2d43b
+                contents:
+                -   title: Objc Pet Cast
+                    source: https://github.com/learn-co-curriculum/objc-PetCast
+                    uuid: edb8b81f-aa0a-4e15-ac43-c79f0c3d2b7a
+            -   title: OOP Design
+                uuid: 0a00a99e-c4fc-40bc-9806-f8b6787f83e4
+                contents:
+                -   title: Ios Reading Inheritance Vs Composition
+                    source: https://github.com/learn-co-curriculum/ios-reading-inheritanceVsComposition
+                    uuid: d2fafcfc-74c6-40d4-baae-3bd4af430286
+            -   title: Categories
+                uuid: fb66c1f4-eccd-4851-b20a-fdbfab6cf18e
+                contents:
+                -   title: Reading Ios Categories
+                    source: https://github.com/learn-co-curriculum/reading-ios-categories
+                    uuid: d170ac00-1a30-4882-8e50-6362eca7cd72
+            -   title: Category Practice
+                uuid: 8779d351-c332-44bc-851d-4234b178ba96
+                contents:
+                -   title: Category Math
+                    source: https://github.com/learn-co-curriculum/category-math
+                    uuid: 96a871eb-645d-470b-a0ac-1a2063245f16
+            -   title: More OOP Design
+                uuid: da590874-b858-45e8-9637-af44920d7a00
+                contents:
+                -   title: Objc Black Jack
+                    source: https://github.com/learn-co-curriculum/objc-BlackJack
+                    uuid: e4795211-32c3-4f66-83cc-68d2bddd3204
+    -   title: Basic Views
+        uuid: d645c8d5-32f5-45e6-9cfb-c19cd4f03f26
+        units:
+        -   title: Actions and Outlets
+            uuid: 1efe8a64-6358-44f1-a249-9895aa58f5d0
+            lessons:
+            -   title: Basics
+                uuid: 98be5803-03fc-4bdf-af1b-5d4fb1d78303
+                contents:
+                -   title: Oop Cards Simple Views
+                    source: https://github.com/learn-co-curriculum/OOP-Cards-Simple-Views
+                    uuid: 62601151-9578-4f57-be93-484ef6df4250
+            -   title: Getting More Comfortable
+                uuid: b64d5bcc-3a44-483a-ad15-e2e0688f4398
+                contents:
+                -   title: Objc Black Jack Views
+                    source: https://github.com/learn-co-curriculum/objc-BlackJackViews
+                    uuid: 523114c4-77e3-455c-84f3-128efaae5f37
+            -   title: 'ADV: Understanding Frames'
+                uuid: 8c1160a5-b9bd-413f-86d0-fe3ac0e8a048
+                contents:
+                -   title: Oop Cards Views
+                    source: https://github.com/learn-co-curriculum/OOP-Cards-Views
+                    uuid: 10efbe1a-d487-4215-bd1e-9e5073f43138
+            -   title: 'More Practice: Make a Jukebox'
+                uuid: 56f9d9b4-d339-41a3-ac18-9f24857fc460
+                contents:
+                -   title: Jukebox Views
+                    source: https://github.com/learn-co-curriculum/jukebox-views
+                    uuid: 9d9f10e4-aee0-4a0c-8c57-429ab33aedf7
+        -   title: Multiple VCs with Nav Controllers
+            uuid: e6a0fa9b-25be-43cf-bf8f-feb6122c8c0f
+            lessons:
+            -   title: Intro
+                uuid: 8f521952-abd6-49a3-8b24-244b8889beb9
+                contents:
+                -   title: Objc Navigation Controllers
+                    source: https://github.com/learn-co-curriculum/objc-NavigationControllers
+                    uuid: b2b8f810-78ac-492e-8950-c70bd8ba0ae6
+            -   title: Passing Data Between VCs
+                uuid: 8741216d-b9ea-4039-94f9-c57fd41b0f67
+                contents:
+                -   title: This Button Is Epoch
+                    source: https://github.com/learn-co-curriculum/this-button-is-epoch
+                    uuid: e5f39da9-b31a-40ae-bb00-eaa06723e332
+            -   title: 'ADV: More Practice with Nav Controllers'
+                uuid: 7c4669b9-72de-4d52-b9c7-3fe6f06ed43c
+                contents:
+                -   title: Tasks Today
+                    source: https://github.com/learn-co-curriculum/tasks-Today
+                    uuid: 18f17496-ced6-4767-a07f-e401f531135b
+        -   title: UITableViews
+            uuid: aca55e0e-46b3-4649-b36b-16b22843d724
+            lessons:
+            -   title: Intro-to-TableViews
+                uuid: 0d250c9d-147b-4896-92bd-08764aac5097
+                contents:
+                -   title: Hella Cells
+                    source: https://github.com/learn-co-curriculum/hella-cells
+                    uuid: ca5b9ddb-e621-4617-9e99-1fb391b8f794
+            -   title: Tableviews and objects
+                uuid: 23b19d1a-7f43-4702-a049-ad7bb636caad
+                contents:
+                -   title: Location Trivia Table Views
+                    source: https://github.com/learn-co-curriculum/locationTrivia-TableViews
+                    uuid: 1f3ca953-96e5-4e5d-8d00-2de1f1dbd33b
+            -   title: TableView Performance
+                uuid: 00e2c79e-cac9-4eb2-ab46-f497a0c0b563
+                contents:
+                -   title: Prime Time
+                    source: https://github.com/learn-co-curriculum/prime-time
+                    uuid: bf8ba846-c0f0-48e7-8bdf-998483e5e337
+            -   title: JukeBoxes With Tableviews
+                uuid: 55e0c61c-b1c2-4bc2-8acb-21cdbd0618c3
+                contents:
+                -   title: Jukebox Table Views
+                    source: https://github.com/learn-co-curriculum/jukebox-tableViews
+                    uuid: a4754974-1e9a-49a9-a0ed-55068b85a836
+            -   title: Static Cells
+                uuid: f80602e1-f88d-4026-92c1-26aeac16c200
+                contents:
+                -   title: Sounds Table
+                    source: https://github.com/learn-co-curriculum/soundsTable
+                    uuid: 8eced533-5aad-4e9d-b62e-1619ced63fd6
+            -   title: Dynamic Custom Cells
+                uuid: cc1d8bfe-5ccf-43f5-b85a-82aa2b418e07
+                contents:
+                -   title: Facepad
+                    source: https://github.com/learn-co-curriculum/facepad
+                    uuid: 5189e0b9-cc42-4f39-8520-1822093491af
+    -   title: Writing Tests
+        uuid: aa7dbadc-fdc4-483c-a143-9c804c630c41
+        units:
+        -   title: Unit Tests
+            uuid: bf89620f-7be4-4a32-bc32-e92d4dd48b93
+            lessons:
+            -   title: Basics
+                uuid: af9638d7-969d-4c6a-b14a-e4ba67334d15
+                contents:
+                -   title: Location Trivia Tests
+                    source: https://github.com/learn-co-curriculum/locationTrivia-Tests
+                    uuid: 5b4c004a-ee46-4cdc-8eb7-7b20bee9b2a2
+            -   title: Intermediate
+                uuid: b5a18dc1-9cbd-4843-980f-4b40c9aaeb9e
+                contents:
+                -   title: Stale Indirect
+                    source: https://github.com/learn-co-curriculum/stale-indirect
+                    uuid: 49d261b3-0837-418e-a495-3ff0e75a7f73
+    -   title: Handling Data
+        uuid: 662f274b-9499-48a9-937b-f1bef1285f60
+        units:
+        -   title: Data Stores and Singletons
+            uuid: 3f431f4b-267d-48d2-b90f-917def075a62
+            lessons:
+            -   title: Intro To Data Stores
+                uuid: 2819234b-e760-4147-ab67-e65716959f22
+                contents:
+                -   title: Location Trivia Data Store
+                    source: https://github.com/learn-co-curriculum/locationTrivia-dataStore
+                    uuid: 0ad1c084-5a7f-4b3e-865b-40a414ce583c
+            -   title: Relationships in Data Store
+                uuid: 79103bc4-d986-4c77-bb22-2dd6cff5f6ca
+                contents:
+                -   title: Location Trivia Data Store Relationships
+                    source: https://github.com/learn-co-curriculum/locationTrivia-DataStoreRelationships
+                    uuid: f51835b2-5794-4aee-9e38-4510ee98bc2a
+        -   title: Persisting Data
+            uuid: 0ab3337a-9796-4df6-92c8-59912b71011b
+            lessons:
+            -   title: Intro to Core Data
+                uuid: d62c9300-24bb-4e35-baaa-fad66a996379
+                contents:
+                -   title: Objc Slap Chat
+                    source: https://github.com/learn-co-curriculum/objc-SlapChat
+                    uuid: d7999b7c-dcd3-4a01-acc7-c355c6dae330
+            -   title: Searching/Sorting in Core Data
+                uuid: 6e81ba70-4d82-4d89-8ee0-feaec90ff648
+                contents:
+                -   title: Search And Shout
+                    source: https://github.com/learn-co-curriculum/search-and-shout
+                    uuid: f37cc8af-8f2c-48ad-959c-863af3f463e1
+            -   title: Inserting into Core Data
+                uuid: 730c8a87-37dd-4cb1-843f-b5313f1e5965
+                contents:
+                -   title: Slapchat Add
+                    source: https://github.com/learn-co-curriculum/slapchat-add
+                    uuid: 950dab53-336b-45ac-915d-2b80b6e7a66d
+            -   title: Relationships in Core Data
+                uuid: d569c221-d770-4182-bf9c-faed1edf3ab1
+                contents:
+                -   title: Objc Slap Chat Relationships
+                    source: https://github.com/learn-co-curriculum/objc-SlapChat-Relationships
+                    uuid: 1a47481d-8eff-4709-9a99-7c2d701b4a0c
+            -   title: More Relationships Practice
+                uuid: 48e70224-847f-400d-9a80-fed7b21af786
+                contents:
+                -   title: Objc Captain Morgans Relationships
+                    source: https://github.com/learn-co-curriculum/objc-captain-morgans-relationships
+                    uuid: bd762ad5-0626-4fb6-906b-7acea93d1c0c
+            -   title: Fetched Results Controller
+                uuid: eea7f482-fe17-4498-8159-3e585bc67e1e
+                contents:
+                -   title: Slapchat Fetched
+                    source: https://github.com/learn-co-curriculum/slapchat-fetched
+                    uuid: 692a642c-4b50-45bd-a844-024a7e68ba27
+    -   title: Using Third Party Libraries
+        uuid: 37b02114-dec6-46b8-a6a6-0a3730e70107
+        units:
+        -   title: CocoaPods
+            uuid: c1862f36-62f8-45c3-b3f0-acc4a2a587c6
+            lessons:
+            -   title: Intro
+                uuid: b9a5f143-d2b5-4dbc-9f8b-9846ff7a14ae
+                contents:
+                -   title: Fonting Awesome
+                    source: https://github.com/learn-co-curriculum/fonting-awesome
+                    uuid: a49d54d6-209d-4caf-b373-3f35ec5cd2f2
+            -   title: More Practice
+                uuid: eb2c2a28-b07a-44d6-a45b-814897f32026
+                contents:
+                -   title: Flashy Tableviews
+                    source: https://github.com/learn-co-curriculum/flashy-tableviews
+                    uuid: dfaa6b20-b0ca-426f-b850-5823be9d33d3
+        -   title: CocoaPods and The Internet
+            uuid: f59eb51c-a998-4fc4-b7bc-5bf761647a8c
+            lessons:
+            -   title: Basics
+                uuid: 1c33cf69-53ea-4244-a9ae-abeebc75b12e
+                contents:
+                -   title: Gunna Rain
+                    source: https://github.com/learn-co-curriculum/gunna-rain
+                    uuid: 683745e6-3b35-485b-826b-6bc884edd42e
+            -   title: More Practice
+                uuid: 577ff013-d8a7-46b8-837e-c2cfbd1b70d2
+                contents:
+                -   title: Objc Four Square
+                    source: https://github.com/learn-co-curriculum/objc-FourSquare
+                    uuid: eb1e7efc-84b4-4fa1-aaf4-8651abcab47f
+    -   title: Laying Out and Moving Views
+        uuid: 77e3a9e5-f13d-4628-9a26-4b3150359ec3
+        units:
+        -   title: AutoLayout
+            uuid: fa980ce7-4b5e-4013-bcdc-924267e72c8d
+            lessons:
+            -   title: Long Form AutoLayout
+                uuid: c45c3409-8bdc-4951-9dfd-7772a094c66a
+                contents:
+                -   title: Autolayout Textview
+                    source: https://github.com/learn-co-curriculum/autolayout-textview
+                    uuid: 9ec789d8-5e7f-4ce0-9057-6fc73532f41c
+            -   title: 'ADV: Handling Rotation'
+                uuid: fa48e7d6-ecf6-4888-986f-53694801baf6
+                contents:
+                -   title: Horizontal Profile
+                    source: https://github.com/learn-co-curriculum/horizontal-profile
+                    uuid: 9d3f88a3-6a37-4eeb-999b-d60e59f8cc2a
+            -   title: Visual Format Language
+                uuid: 6c3cdec9-859a-4388-be91-91a2f82b4d04
+                contents:
+                -   title: Autolayout Calc
+                    source: https://github.com/learn-co-curriculum/autolayout-calc
+                    uuid: ba68da33-9044-43c5-a96f-ac444ba121b5
+            -   title: Laying out from Interface Builder
+                uuid: 67c4b8c9-6665-486a-b3d3-d237b49654da
+                contents:
+                -   title: The Final Countdown
+                    source: https://github.com/learn-co-curriculum/theFinalCountdown
+                    uuid: 6ba239de-b0c9-49ab-96b2-7102764b953d
+        -   title: Animations
+            uuid: a361df43-9099-4c05-b3ff-1540844be5ca
+            lessons:
+            -   title: Basics
+                uuid: 809ffcb2-d4db-4578-ada7-12ae86c79676
+                contents:
+                -   title: Animated Validator
+                    source: https://github.com/learn-co-curriculum/animated-validator
+                    uuid: 0483b551-ced7-473b-880a-f72fc9f435d1
+            -   title: Keyframe Animations
+                uuid: 64e7ed57-eaae-470b-9d53-b1411ab10a8f
+                contents:
+                -   title: You Give Love A Bad Name
+                    source: https://github.com/learn-co-curriculum/youGiveLoveABadName
+                    uuid: b8f0b03e-efa8-4459-a106-db89728b4d77
+        -   title: Touches
+            uuid: 2cea8610-31cb-427b-8bb3-180c2c79992d
+            lessons:
+            -   title: Dragging
+                uuid: 4643320f-c3b7-4239-b229-6c547aeb5a95
+                contents:
+                -   title: Zen Garden
+                    source: https://github.com/learn-co-curriculum/zenGarden
+                    uuid: 5cfa277e-c9d0-4fce-8075-1e501741e910
+    -   title: Advanced Views
+        uuid: 780032f1-f5ce-4eb5-b943-2b5c14a80fdc
+        units:
+        -   title: UIScrollView
+            uuid: 9e365c97-5ed2-4176-9ed3-7299785550c3
+            lessons:
+            -   title: Basics
+                uuid: 70b6251b-4345-4e58-9da7-dd36534815eb
+                contents:
+                -   title: Objc Scroll Views
+                    source: https://github.com/learn-co-curriculum/objc-ScrollViews
+                    uuid: 11cc3b63-4c0c-43d2-85d0-402819f63b67
+        -   title: UICollectionView
+            uuid: a151bb06-32a0-4097-9cdb-f2ce355d5fd6
+            lessons:
+            -   title: Intro
+                uuid: 07527fc1-4f28-48b5-9b0f-6243f75cb12d
+                contents:
+                -   title: Muscle Collection
+                    source: https://github.com/learn-co-curriculum/MuscleCollection
+                    uuid: 5dd8c1aa-3631-4c43-b6fe-680a6d4f7332
+        -   title: Multiple Storyboards
+            uuid: 8e715b9d-53a3-4957-944c-004e7977ff69
+            lessons:
+            -   title: Basics
+                uuid: d2ccaf1c-3b7e-4438-ba79-757b5e71f65a
+                contents:
+                -   title: Github Storyboards
+                    source: https://github.com/learn-co-curriculum/github-storyboards
+                    uuid: 656571b9-6445-4486-959f-2db3d4a009eb
+    -   title: Communication Patterns
+        uuid: 87ddcef9-e82a-427f-9ea9-2d817aed0d68
+        units:
+        -   title: NSNotificationCenter
+            uuid: 3a4b8e7b-3c1a-472f-84fe-6117603c49fa
+            lessons:
+            -   title: Intro
+                uuid: 20251e26-131e-4cad-aa8b-d927741a7045
+                contents:
+                -   title: Captain Morgans Notifications
+                    source: https://github.com/learn-co-curriculum/captain-morgans-notifications
+                    uuid: d990de08-0875-4796-bab7-2a9db687a680
+        -   title: KVO
+            uuid: 93914185-126d-4de2-9726-51b160c037ff
+            lessons: []
+        -   title: Delegation
+            uuid: 61173e76-6914-4154-835c-24d43e5fee1d
+            lessons:
+            -   title: Create Your Own
+                uuid: 8caa97fc-d690-4634-99bb-7c870d5b7949
+                contents:
+                -   title: Objc Pushup Protocols
+                    source: https://github.com/learn-co-curriculum/objc-PushupProtocols
+                    uuid: dd725ede-e6df-4487-91cb-53d7295e4e2c
+            -   title: Intro
+                uuid: d72512ee-2ae4-42ad-9d9a-e9033a8dc399
+                contents:
+                -   title: Validated Signup
+                    source: https://github.com/learn-co-curriculum/validated-signup
+                    uuid: b55df221-a254-4d86-8fef-1319a552e4e2
+            -   title: More Practice
+                uuid: cbd05807-e22c-4474-aa45-2f15b9f11e9b
+                contents:
+                -   title: Pickin Fruit
+                    source: https://github.com/learn-co-curriculum/pickin-fruit
+                    uuid: 8f1caffd-808b-472d-9748-d77daeb267a9
+        -   title: Blocks
+            uuid: 951d880e-2108-43e1-acea-49b31e529c51
+            lessons:
+            -   title: Intro
+                uuid: b6980119-c328-4533-8f32-35e55507266a
+                contents:
+                -   title: Array Blocks
+                    source: https://github.com/learn-co-curriculum/ArrayBlocks
+                    uuid: f13e5be0-6453-4590-97ce-e3b94fbc1cc5
+            -   title: Practice
+                uuid: d6caf108-8f7a-4de9-98dd-e058f9f3900f
+                contents:
+                -   title: Cash Money Blocks
+                    source: https://github.com/learn-co-curriculum/CashMoneyBlocks
+                    uuid: 8314c8ad-c816-4abc-97e4-3398cb8828db
+            -   title: Replacing Delegation
+                uuid: 501086a6-888c-48ea-ac46-734d56fc9795
+                contents:
+                -   title: Objc Blocks
+                    source: https://github.com/learn-co-curriculum/objc-Blocks
+                    uuid: 7989fd12-f99c-4cf0-94d4-8cb6af80f233
+    -   title: Talking to APIs
+        uuid: 3c9f0971-e865-4507-bd77-e28fcb9ee132
+        units:
+        -   title: NSURLSession
+            uuid: 80f45dbb-cdc1-4dcb-811d-3ced2b42131e
+            lessons:
+            -   title: Reading
+                uuid: a4d24c04-5bd9-4f0d-87f2-91ee5d357bed
+                contents:
+                -   title: Github Repo List
+                    source: https://github.com/learn-co-curriculum/github-repo-list
+                    uuid: b0705fcd-dfc3-482e-84f9-f53444d8b3de
+            -   title: 'ADV: Chaining Requests'
+                uuid: 9f63b7cf-a2bf-481e-9dbb-d703e4095a32
+                contents:
+                -   title: Tweet Sentiment
+                    source: https://github.com/learn-co-curriculum/tweet-sentiment
+                    uuid: 7cb19649-5cd6-4171-ac7c-72018f211c06
+            -   title: POSTing
+                uuid: 60fdb779-4a3d-4c54-94f7-346ca8cc4442
+                contents:
+                -   title: Github Repo Starring
+                    source: https://github.com/learn-co-curriculum/github-repo-starring
+                    uuid: 45c7e631-7dde-4597-9a66-e1dde7da075f
+        -   title: AFNetworking
+            uuid: 9de5d913-687a-436f-a415-7824bf6a9023
+            lessons:
+            -   title: NSURLSession to AFNetworking
+                uuid: 85402f26-9179-435a-90dc-b7e3bbaf459b
+                contents:
+                -   title: Github Repo Search
+                    source: https://github.com/learn-co-curriculum/github-repo-search
+                    uuid: 1a226061-2af2-48fe-8a9b-a15028cb122c
+            -   title: OAuth
+                uuid: 5f6e24f2-a748-4333-b76a-fd722d54ab0e
+                contents:
+                -   title: Github Login
+                    source: https://github.com/learn-co-curriculum/github-login
+                    uuid: f97ac385-9504-4df7-aac1-91299422e77b
+        -   title: CRUD
+            uuid: e43079eb-73b0-4e91-be0b-6953b738a7be
+            lessons:
+            -   title: Basics
+                uuid: c2acee3e-17f1-4a9b-924f-24ed7d2f2b5b
+                contents:
+                -   title: Location Trivia Api
+                    source: https://github.com/learn-co-curriculum/locationTrivia-API
+                    uuid: 6958c413-7f46-411a-97a1-27c99eccf9dc
+    -   title: Multi-Threading
+        uuid: 3cedb750-bc62-497a-af5c-7e9476da5448
+        units:
+        -   title: NSOperationQueue
+            uuid: 1cc5855a-0909-477a-ac75-0fa27c762e45
+            lessons:
+            -   title: Basics
+                uuid: 1ed8f44e-b9fd-44d3-aa18-ef22940261ca
+                contents:
+                -   title: Filtered Images
+                    source: https://github.com/learn-co-curriculum/filtered-images
+                    uuid: d061f9ae-8703-43ba-b399-16cf7e91145b
+            -   title: Subclassing NSOperation
+                uuid: 224eaac3-7f77-4be3-a17d-2efc7a826a98
+                contents:
+                -   title: Multi Threading Lab
+                    source: https://github.com/learn-co-curriculum/multi-threading-lab
+                    uuid: 2e9238dc-eb0a-4811-907c-ba97a94f0469
+        -   title: AFNetworking And MultiThreading
+            uuid: c8426756-76c0-4124-b38b-1a1f3a38d53d
+            lessons:
+            -   title: AFRequestOperation
+                uuid: ce8a0a09-34e8-4630-b1e1-2f9b4829c9b2
+                contents:
+                -   title: Multi Pug Bomb
+                    source: https://github.com/learn-co-curriculum/multi-pug-bomb
+                    uuid: 53f1f1e4-2b78-4119-815b-9d651c0a5065
+    -   title: Views Without Storyboards
+        uuid: dba848b9-db24-4557-a9c5-e213ca72410b
+        units:
+        -   title: XIBs In Storyboards
+            uuid: d636db49-c012-4dfb-8333-7469ae492ee6
+            lessons:
+            -   title: Intro
+                uuid: 9e5098ff-d64f-4831-87a6-8c13439faf18
+                contents:
+                -   title: Pour Cast
+                    source: https://github.com/learn-co-curriculum/pour-cast
+                    uuid: f984a6d5-a521-4ce7-a4cc-d4b6c4aebabb
+        -   title: 100% Code
+            uuid: 8f62a507-2d48-4865-b8b7-ba2110ef0338
+            lessons:
+            -   title: Intro
+                uuid: bd4701fa-844f-4873-a668-3790dc0aedcd
+                contents:
+                -   title: Objc Views In Code
+                    source: https://github.com/learn-co-curriculum/objc-ViewsInCode
+                    uuid: 642c4034-b3f3-4816-8246-a132a577865b
+        -   title: XIBs/NIBs
+            uuid: 48580cb8-030f-4c62-8277-c55ec7476e5e
+            lessons: []
+    -   title: Drawing Views
+        uuid: 847dbb34-179d-44a8-930a-fbab86666c74
+        units:
+        -   title: Core Graphics
+            uuid: 2afbd67e-370d-452c-8b39-2e7603aedc09
+            lessons:
+            -   title: Intro to Core Graphics
+                uuid: 6e336238-c5f0-4526-80eb-2ff32a936865
+                contents:
+                -   title: Objc Stick Core
+                    source: https://github.com/learn-co-curriculum/objc-StickCore
+                    uuid: 8ba87e0c-0c2b-4806-9fee-5d2da91c05d7
+            -   title: More Practice with Core Graphics
+                uuid: 9f646061-9b5d-4397-baa9-9dd4f99ef304
+                contents:
+                -   title: Objc Graph Plotter Part1
+                    source: https://github.com/learn-co-curriculum/objc-GraphPlotter-Part1
+                    uuid: e9ae2776-201a-4db6-af27-c78222ce13c5
+    -   title: Swift
+        uuid: f03f48b1-0e2c-4df1-be90-2946b2ed54d1
+        units:
+        -   title: Swift Basics
+            uuid: 920409b0-3a0f-47a5-be36-c7004f3b4258
+            lessons:
+            -   title: Getting started
+                uuid: d1537d72-76eb-408b-99d5-c2adb20ce695
+                contents:
+                -   title: Swift Wwdc Badges
+                    source: https://github.com/learn-co-curriculum/swift-wwdc-badges
+                    uuid: 2c090bf9-851c-4f51-bb04-68ee02e766af
+            -   title: Swift Methods
+                uuid: 9ec65f9c-c635-4b73-8d2c-d05cc838da9c
+                contents:
+                -   title: Swift Deli
+                    source: https://github.com/learn-co-curriculum/swift-deli
+                    uuid: 2eb64d41-7279-403b-9f9b-208da893253f
+            -   title: More Practice With Swift Basics
+                uuid: 4e9eff68-715e-455c-983e-f23b8042310b
+                contents:
+                -   title: Swift Location Trivia Objects
+                    source: https://github.com/learn-co-curriculum/swift-LocationTrivia-Objects
+                    uuid: b5642c15-7afa-43f4-b933-cf2e4bf07e30
+        -   title: Optionals
+            uuid: a510d0d1-09aa-4ab9-b606-3566961397d0
+            lessons:
+            -   title: Getting hungry?
+                uuid: 2a74b0d8-70ef-46fc-bc52-710de7cd442a
+                contents:
+                -   title: Dinner Options
+                    source: https://github.com/learn-co-curriculum/DinnerOptions
+                    uuid: 4ba63099-164c-4e08-b738-622dbb33f23d
+        -   title: Generics
+            uuid: 70667893-b0e2-4606-9aed-4fd982820f73
+            lessons:
+            -   title: Linked Lists For All!
+                uuid: 597dbad3-cead-468d-b6be-9fa1230bd3b9
+                contents:
+                -   title: Generically Speaking
+                    source: https://github.com/learn-co-curriculum/GenericallySpeaking
+                    uuid: 3c3e9847-f9b6-4c9c-8302-41f5c15a3f49
+        -   title: Higher Order Functions
+            uuid: d4ccd345-6364-45dd-abd4-868e6792f019
+            lessons:
+            -   title: Cartoon Collections Revisited
+                uuid: c096de9c-3181-45a8-babf-c5549dfa0d72
+                contents:
+                -   title: Swift Cartoon Collections
+                    source: https://github.com/learn-co-curriculum/swift-cartoon-collections
+                    uuid: f918b007-5002-4c5a-bd25-dc791f9da210
+            -   title: Collections Volume 1 Revisited
+                uuid: fa1df748-4578-4929-97ab-9990ac98de9a
+                contents:
+                -   title: Swift Collections Volume One
+                    source: https://github.com/learn-co-curriculum/swift-Collections-VolumeOne
+                    uuid: e9bf211b-8ded-4527-ab3a-8454ae2dcf75
