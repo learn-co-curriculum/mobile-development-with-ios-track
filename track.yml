@@ -207,6 +207,12 @@ track:
                 -   title: Reading Ios Nsdictionary
                     source: https://github.com/learn-co-curriculum/reading-ios-nsdictionary
                     uuid: 3d9bed25-ec32-405c-9710-7dae1a66c612
+            -   title: Nesting Collections
+                uuid: b2de73d1-7ddb-4cfd-8f09-88c6fa19168a
+                contents:
+                -   title: Reading Ios Nested Data Structures
+                    source: https://github.com/learn-co-curriculum/reading-ios-nestedDataStructures
+                    uuid: ad1b1b9c-c331-4c65-bc55-7b9900b29df7
             -   title: Searching
                 uuid: 350e6bea-cb23-4a7d-b491-77261caa3b90
                 contents:
@@ -231,12 +237,6 @@ track:
                 -   title: Ios Collections
                     source: https://github.com/learn-co-curriculum/ios-collections
                     uuid: 473b8b62-ead0-4d95-80c7-83862ec4878a
-            -   title: Nesting Collections
-                uuid: b2de73d1-7ddb-4cfd-8f09-88c6fa19168a
-                contents:
-                -   title: Reading Ios Nested Data Structures
-                    source: https://github.com/learn-co-curriculum/reading-ios-nestedDataStructures
-                    uuid: ad1b1b9c-c331-4c65-bc55-7b9900b29df7
             -   title: Nested Collections Practice
                 uuid: d4197775-d918-4acb-b86c-ae4c2c6b3992
                 contents:
