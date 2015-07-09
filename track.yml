@@ -207,6 +207,12 @@ track:
                 -   title: Reading Ios Nsdictionary
                     source: https://github.com/learn-co-curriculum/reading-ios-nsdictionary
                     uuid: 3d9bed25-ec32-405c-9710-7dae1a66c612
+            -   title: Searching
+                uuid: 350e6bea-cb23-4a7d-b491-77261caa3b90
+                contents:
+                -   title: Reading Ios Filtering Basic
+                    source: https://github.com/learn-co-curriculum/reading-ios-filtering-basic
+                    uuid: 6a9be618-1894-4c04-b4fd-bf2aa2b993f3
             -   title: Dictionary Practice
                 uuid: 9c4bdc49-ef90-4d71-aa76-437930184db2
                 contents:
@@ -219,12 +225,6 @@ track:
                 -   title: Reading Ios Sorting Basic
                     source: https://github.com/learn-co-curriculum/reading-ios-sorting-basic
                     uuid: 0715ffb5-8943-4e18-b0ea-389df887a0f4
-            -   title: Searching
-                uuid: 350e6bea-cb23-4a7d-b491-77261caa3b90
-                contents:
-                -   title: Reading Ios Filtering Basic
-                    source: https://github.com/learn-co-curriculum/reading-ios-filtering-basic
-                    uuid: 6a9be618-1894-4c04-b4fd-bf2aa2b993f3
             -   title: Searching and Sorting Practice
                 uuid: 310f8efa-93ed-472c-b32a-8aca80a02757
                 contents:
