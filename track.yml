@@ -207,6 +207,12 @@ track:
                 -   title: Reading Ios Nsdictionary
                     source: https://github.com/learn-co-curriculum/reading-ios-nsdictionary
                     uuid: 3d9bed25-ec32-405c-9710-7dae1a66c612
+            -   title: Dictionary Basic Practice
+                uuid: 8e9b0ccc-e12a-4d5a-b165-90f6bde4ebf6
+                contents:
+                -   title: Objc Dictionary Ice Cream
+                    source: https://github.com/learn-co-curriculum/objc-dictionary-ice-cream
+                    uuid: 6fdb7b43-5160-4702-9027-7baa0c9d80c3
             -   title: Nested Data Structures
                 uuid: b2de73d1-7ddb-4cfd-8f09-88c6fa19168a
                 contents:
@@ -243,12 +249,6 @@ track:
                 -   title: Location Trivia Dictionaries
                     source: https://github.com/learn-co-curriculum/locationTrivia-Dictionaries
                     uuid: 13870ef9-ad24-4bce-9021-e9850d180a15
-            -   title: Dictionary Basic Practice
-                uuid: 8e9b0ccc-e12a-4d5a-b165-90f6bde4ebf6
-                contents:
-                -   title: Objc Dictionary Ice Cream
-                    source: https://github.com/learn-co-curriculum/objc-dictionary-ice-cream
-                    uuid: 6fdb7b43-5160-4702-9027-7baa0c9d80c3
     -   title: Objects in Objective-C
         uuid: 0563c0ba-8a2e-454e-a289-12795e11b2cf
         units:
