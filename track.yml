@@ -243,7 +243,7 @@ track:
                 -   title: Ios Collections
                     source: https://github.com/learn-co-curriculum/ios-collections
                     uuid: 473b8b62-ead0-4d95-80c7-83862ec4878a
-            -   title: Nested Collections Practice
+            -   title: Collections Review Practice
                 uuid: d4197775-d918-4acb-b86c-ae4c2c6b3992
                 contents:
                 -   title: Location Trivia Dictionaries
