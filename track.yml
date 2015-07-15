@@ -111,7 +111,7 @@ track:
                 -   title: Reading Ios Nsnumber V Nsinteger
                     source: https://github.com/learn-co-curriculum/reading-ios-nsnumber-v-nsinteger
                     uuid: 1cb7d556-f6af-4c91-ade8-725314d88893
-            -   title: Looping and Conditionals
+            -   title: Conditionals
                 uuid: 66e975a4-742b-47c1-afd3-df1c184b3f48
                 contents:
                 -   title: Reading Ios Looping And Conditionals
