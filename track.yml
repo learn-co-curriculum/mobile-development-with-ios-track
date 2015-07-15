@@ -30,7 +30,7 @@ track:
             -   title: CLI Basics
                 uuid: 9209116d-3062-4dc2-9317-8e28dbd9681c
                 contents:
-                -   title: Cli Basics
+                -   title: CLI Basics
                     source: https://github.com/learn-co-curriculum/cli-basics
                     uuid: 9ce771b4-204f-46d3-864b-317dd4b2b104
         -   title: Verifying Your Environment
