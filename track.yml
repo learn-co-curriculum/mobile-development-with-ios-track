@@ -87,7 +87,7 @@ track:
                 -   title: Ios Your First Ns Log
                     source: https://github.com/learn-co-curriculum/ios-your-first-NSLog
                     uuid: 26380a43-3e1a-4a10-bf47-7000232ca312
-            -   title: Variables
+            -   title: Variable Basics
                 uuid: 8ae3ac62-1bff-407e-9962-a08dcf8a5735
                 contents:
                 -   title: Reading Ios Variables And Data Types
