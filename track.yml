@@ -99,7 +99,7 @@ track:
                 -   title: Reading Ios Using Methods
                     source: https://github.com/learn-co-curriculum/reading-ios-using-methods
                     uuid: 36f87a51-0b36-45c8-bcaf-73f5c094333b
-            -   title: NSStrings
+            -   title: NSString
                 uuid: a2c3a4aa-4a34-459d-9295-7df51a18213b
                 contents:
                 -   title: Reading Ios Things Nsstring Can Do
