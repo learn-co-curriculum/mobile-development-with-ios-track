@@ -93,18 +93,18 @@ track:
                 -   title: Reading Ios Variables And Data Types
                     source: https://github.com/learn-co-curriculum/reading-ios-variables-and-data-types
                     uuid: 09d799f1-b1df-43df-af61-b4862700a31d
-            -   title: NSStrings
-                uuid: a2c3a4aa-4a34-459d-9295-7df51a18213b
-                contents:
-                -   title: Reading Ios Things Nsstring Can Do
-                    source: https://github.com/learn-co-curriculum/reading-ios-things-nsstring-can-do
-                    uuid: 2ec3cbec-cc37-474e-b844-fbd3b9abb97b
             -   title: Calling Methods
                 uuid: f5b276e4-c964-4aa9-becb-654933e2136e
                 contents:
                 -   title: Reading Ios Using Methods
                     source: https://github.com/learn-co-curriculum/reading-ios-using-methods
                     uuid: 36f87a51-0b36-45c8-bcaf-73f5c094333b
+            -   title: NSStrings
+                uuid: a2c3a4aa-4a34-459d-9295-7df51a18213b
+                contents:
+                -   title: Reading Ios Things Nsstring Can Do
+                    source: https://github.com/learn-co-curriculum/reading-ios-things-nsstring-can-do
+                    uuid: 2ec3cbec-cc37-474e-b844-fbd3b9abb97b
             -   title: NSNumber and NSInteger
                 uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
                 contents:
