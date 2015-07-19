@@ -123,7 +123,7 @@ track:
                 -   title: Reading Ios For Loop
                     source: https://github.com/learn-co-curriculum/reading-ios-for-loop
                     uuid: d55875f5-ea1e-41d0-8f7f-44562fc1466b
-            -   title: NSArrays
+            -   title: NSArray
                 uuid: 3c35f0d0-4cc2-4a15-a2b0-9070c3966e09
                 contents:
                 -   title: Reading Ios Nsarray
