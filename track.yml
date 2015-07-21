@@ -135,7 +135,7 @@ track:
                 -   title: Wwdc Badges
                     source: https://github.com/learn-co-curriculum/wwdc-badges
                     uuid: 95e8cc08-b96c-489a-9a84-1a5dcdcf6e43
-            -   title: Reading Tests
+            -   title: Reading Ios Using Tests
                 uuid: 0698d408-86df-4b77-b95e-04b814f3a029
                 contents:
                 -   title: Reading Ios Using Tests
