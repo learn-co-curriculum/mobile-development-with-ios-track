@@ -9,7 +9,7 @@ track:
         -   title: Command Line and BASH
             uuid: 5ec075f3-43cc-473d-9fdc-73490fc058ad
             lessons:
-            -   title: Intro To The Shell
+            -   title: Intro to the Shell
                 uuid: 7c02d4dc-1cf2-41fb-81cc-29a963f492d7
                 contents:
                 -   title: Intro To The Shell
@@ -30,7 +30,7 @@ track:
             -   title: CLI Basics
                 uuid: 9209116d-3062-4dc2-9317-8e28dbd9681c
                 contents:
-                -   title: Cli Basics
+                -   title: CLI Basics
                     source: https://github.com/learn-co-curriculum/cli-basics
                     uuid: 9ce771b4-204f-46d3-864b-317dd4b2b104
         -   title: Verifying Your Environment
@@ -87,31 +87,31 @@ track:
                 -   title: Ios Your First Ns Log
                     source: https://github.com/learn-co-curriculum/ios-your-first-NSLog
                     uuid: 26380a43-3e1a-4a10-bf47-7000232ca312
-            -   title: Variables
+            -   title: Variable Basics
                 uuid: 8ae3ac62-1bff-407e-9962-a08dcf8a5735
                 contents:
                 -   title: Reading Ios Variables And Data Types
                     source: https://github.com/learn-co-curriculum/reading-ios-variables-and-data-types
                     uuid: 09d799f1-b1df-43df-af61-b4862700a31d
-            -   title: NSStrings
-                uuid: a2c3a4aa-4a34-459d-9295-7df51a18213b
-                contents:
-                -   title: Reading Ios Things Nsstring Can Do
-                    source: https://github.com/learn-co-curriculum/reading-ios-things-nsstring-can-do
-                    uuid: 2ec3cbec-cc37-474e-b844-fbd3b9abb97b
             -   title: Calling Methods
                 uuid: f5b276e4-c964-4aa9-becb-654933e2136e
                 contents:
                 -   title: Reading Ios Using Methods
                     source: https://github.com/learn-co-curriculum/reading-ios-using-methods
                     uuid: 36f87a51-0b36-45c8-bcaf-73f5c094333b
+            -   title: Reading Ios Things Nsstring Can Do
+                uuid: a2c3a4aa-4a34-459d-9295-7df51a18213b
+                contents:
+                -   title: Reading Ios Things Nsstring Can Do
+                    source: https://github.com/learn-co-curriculum/reading-ios-things-nsstring-can-do
+                    uuid: 2ec3cbec-cc37-474e-b844-fbd3b9abb97b
             -   title: NSNumber and NSInteger
                 uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
                 contents:
                 -   title: Reading Ios Nsnumber V Nsinteger
                     source: https://github.com/learn-co-curriculum/reading-ios-nsnumber-v-nsinteger
                     uuid: 1cb7d556-f6af-4c91-ade8-725314d88893
-            -   title: Looping and Conditionals
+            -   title: Conditionals
                 uuid: 66e975a4-742b-47c1-afd3-df1c184b3f48
                 contents:
                 -   title: Reading Ios Looping And Conditionals
@@ -123,19 +123,19 @@ track:
                 -   title: Reading Ios For Loop
                     source: https://github.com/learn-co-curriculum/reading-ios-for-loop
                     uuid: d55875f5-ea1e-41d0-8f7f-44562fc1466b
-            -   title: NSArrays
+            -   title: NSArray
                 uuid: 3c35f0d0-4cc2-4a15-a2b0-9070c3966e09
                 contents:
                 -   title: Reading Ios Nsarray
                     source: https://github.com/learn-co-curriculum/reading-ios-nsarray
                     uuid: 2707279a-6047-4956-bef8-b85d911125f5
-            -   title: WWDC Badges
+            -   title: Wwdc Badges
                 uuid: 8c9e0416-2436-4385-a184-27ce0d5c5779
                 contents:
                 -   title: Wwdc Badges
                     source: https://github.com/learn-co-curriculum/wwdc-badges
                     uuid: 95e8cc08-b96c-489a-9a84-1a5dcdcf6e43
-            -   title: Reading Tests
+            -   title: Reading Ios Using Tests
                 uuid: 0698d408-86df-4b77-b95e-04b814f3a029
                 contents:
                 -   title: Reading Ios Using Tests
@@ -195,7 +195,7 @@ track:
                 -   title: Reading Ios More Loop Types
                     source: https://github.com/learn-co-curriculum/reading-ios-more-loop-types
                     uuid: d059a457-f676-41f8-a027-fe4f4b97d75b
-            -   title: Looping Practice
+            -   title: Whiley Coyote
                 uuid: c62ccca6-e762-4223-bc5a-d7367d85f9a7
                 contents:
                 -   title: Whiley Coyote
