@@ -13,7 +13,7 @@ track:
                 uuid: 7c02d4dc-1cf2-41fb-81cc-29a963f492d7
                 contents:
                 -   title: Intro To The Shell
-                    source: https://github.com/learn-co-curriculum/intro-to-the-shell
+                    source: https://github.com/dev-learn-co-curriculum/intro-to-the-shell
                     uuid: 7963b1a0-f728-4b72-af41-dce544dbdec4
             -   title: Opening a Terminal
                 uuid: 16744e91-ce68-4e84-b28e-9a4ef4c2398e
