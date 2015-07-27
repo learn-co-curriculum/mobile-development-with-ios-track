@@ -99,6 +99,12 @@ track:
                 -   title: Reading Ios Using Methods
                     source: https://github.com/learn-co-curriculum/reading-ios-using-methods
                     uuid: 36f87a51-0b36-45c8-bcaf-73f5c094333b
+            -   title: Parrot
+                uuid: 9f9abfa8-ed7b-4806-9926-fc2ba6bf2945
+                contents:
+                -   title: Objc Parrot
+                    source: https://github.com/learn-co-curriculum/objc-parrot
+                    uuid: 48449462-c60a-497c-b08a-ba1817f58b4f
             -   title: NSString
                 uuid: a2c3a4aa-4a34-459d-9295-7df51a18213b
                 contents:
@@ -129,12 +135,6 @@ track:
                 -   title: Reading Ios Nsarray
                     source: https://github.com/learn-co-curriculum/reading-ios-nsarray
                     uuid: 2707279a-6047-4956-bef8-b85d911125f5
-            -   title: Parrot
-                uuid: 9f9abfa8-ed7b-4806-9926-fc2ba6bf2945
-                contents:
-                -   title: Objc Parrot
-                    source: https://github.com/learn-co-curriculum/objc-parrot
-                    uuid: 48449462-c60a-497c-b08a-ba1817f58b4f
             -   title: WWDC Badges
                 uuid: 8c9e0416-2436-4385-a184-27ce0d5c5779
                 contents:
