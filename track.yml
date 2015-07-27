@@ -105,7 +105,7 @@ track:
                 -   title: Reading Ios Things Nsstring Can Do
                     source: https://github.com/learn-co-curriculum/reading-ios-things-nsstring-can-do
                     uuid: 2ec3cbec-cc37-474e-b844-fbd3b9abb97b
-            -   title: Parrot
+            -   title: 'Code-Along: Parrot'
                 uuid: 9f9abfa8-ed7b-4806-9926-fc2ba6bf2945
                 contents:
                 -   title: Objc Parrot
