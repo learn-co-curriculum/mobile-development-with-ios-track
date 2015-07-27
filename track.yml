@@ -99,18 +99,18 @@ track:
                 -   title: Reading Ios Using Methods
                     source: https://github.com/learn-co-curriculum/reading-ios-using-methods
                     uuid: 36f87a51-0b36-45c8-bcaf-73f5c094333b
-            -   title: Parrot
-                uuid: 9f9abfa8-ed7b-4806-9926-fc2ba6bf2945
-                contents:
-                -   title: Objc Parrot
-                    source: https://github.com/learn-co-curriculum/objc-parrot
-                    uuid: 48449462-c60a-497c-b08a-ba1817f58b4f
             -   title: NSString
                 uuid: a2c3a4aa-4a34-459d-9295-7df51a18213b
                 contents:
                 -   title: Reading Ios Things Nsstring Can Do
                     source: https://github.com/learn-co-curriculum/reading-ios-things-nsstring-can-do
                     uuid: 2ec3cbec-cc37-474e-b844-fbd3b9abb97b
+            -   title: Parrot
+                uuid: 9f9abfa8-ed7b-4806-9926-fc2ba6bf2945
+                contents:
+                -   title: Objc Parrot
+                    source: https://github.com/learn-co-curriculum/objc-parrot
+                    uuid: 48449462-c60a-497c-b08a-ba1817f58b4f
             -   title: NSNumber and NSInteger
                 uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
                 contents:
