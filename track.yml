@@ -159,6 +159,12 @@ track:
                 -   title: Objc Deli
                     source: https://github.com/learn-co-curriculum/objc-deli
                     uuid: c77c96f9-ca43-4a1d-a11a-73ffb932fad1
+            -   title: Parrot
+                uuid: 9f9abfa8-ed7b-4806-9926-fc2ba6bf2945
+                contents:
+                -   title: Objc Parrot
+                    source: https://github.com/learn-co-curriculum/objc-parrot
+                    uuid: 48449462-c60a-497c-b08a-ba1817f58b4f
         -   title: Scope and Debugging
             uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
             lessons:
