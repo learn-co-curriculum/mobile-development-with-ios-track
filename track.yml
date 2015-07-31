@@ -180,7 +180,7 @@ track:
                 -   title: Reading Ios Variable Scope
                     source: https://github.com/learn-co-curriculum/reading-ios-variable-scope
                     uuid: ae24d052-49bf-450d-b67e-239c712ed806
-            -   title: Practice With Scope (lab)
+            -   title: Practice With Scope
                 uuid: 8c0aa649-3aec-47a6-8c87-ae887d98bd9e
                 contents:
                 -   title: Ios Variable Scope
