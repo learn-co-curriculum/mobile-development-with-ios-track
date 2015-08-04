@@ -129,6 +129,12 @@ track:
                 -   title: Objc Speaking Grandma
                     source: https://github.com/learn-co-curriculum/objc-speaking-grandma
                     uuid: 5434c0a1-58aa-444b-a750-142108dff453
+            -   title: NSMutableString
+                uuid: 96cb059d-45c7-44ae-99eb-866f649be02c
+                contents:
+                -   title: Reading Ios Nsmutablestring
+                    source: https://github.com/learn-co-curriculum/reading-ios-nsmutablestring
+                    uuid: 776fdd8b-1b5d-45d4-8426-ab0d94787ed7
             -   title: The 'for' Loop
                 uuid: f1c3343b-7811-47cf-91a8-5c4827b69236
                 contents:
@@ -171,12 +177,6 @@ track:
                 -   title: Objc Deli
                     source: https://github.com/learn-co-curriculum/objc-deli
                     uuid: c77c96f9-ca43-4a1d-a11a-73ffb932fad1
-            -   title: NSMutableString
-                uuid: 96cb059d-45c7-44ae-99eb-866f649be02c
-                contents:
-                -   title: Reading Ios Nsmutablestring
-                    source: https://github.com/learn-co-curriculum/reading-ios-nsmutablestring
-                    uuid: 776fdd8b-1b5d-45d4-8426-ab0d94787ed7
         -   title: Scope and Debugging
             uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
             lessons:
