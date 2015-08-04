@@ -270,7 +270,7 @@ track:
     -   title: Objects in Objective-C
         uuid: 0563c0ba-8a2e-454e-a289-12795e11b2cf
         units:
-        -   title: Basic Objects
+        -   title: Object Basics
             uuid: 7bcd97ef-cd9e-4c31-8fd5-da372ab20474
             lessons:
             -   title: Instance and Classes
