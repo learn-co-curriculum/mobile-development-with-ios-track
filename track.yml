@@ -273,7 +273,7 @@ track:
         -   title: Object Basics
             uuid: 7bcd97ef-cd9e-4c31-8fd5-da372ab20474
             lessons:
-            -   title: Instance and Classes
+            -   title: Intro to Object Orientation
                 uuid: 35ff7303-d6f7-4e8f-b25e-9a1067064c19
                 contents:
                 -   title: Reading Ios Intro To Objects
