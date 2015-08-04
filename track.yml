@@ -279,7 +279,7 @@ track:
                 -   title: Reading Ios Intro To Objects
                     source: https://github.com/learn-co-curriculum/reading-ios-introToObjects
                     uuid: f4a8bc6f-5cf9-482a-ac74-6dd1ade7c3a1
-            -   title: Holding Data in Classes
+            -   title: Property Basics
                 uuid: 9a9938d0-e13a-4d00-b7a9-7f3f74aca671
                 contents:
                 -   title: Reading Ios Properties
