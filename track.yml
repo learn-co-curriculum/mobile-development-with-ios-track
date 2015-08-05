@@ -291,6 +291,12 @@ track:
                 -   title: Reading Ios Properties
                     source: https://github.com/learn-co-curriculum/reading-ios-properties
                     uuid: 55cfd7b5-002a-452e-be4d-4a5f55971b60
+            -   title: Your First Property
+                uuid: 404be540-81ec-4c45-9657-515b71b74771
+                contents:
+                -   title: Objc Holiday Properties
+                    source: https://github.com/learn-co-curriculum/objc-holiday-properties
+                    uuid: 46ca09cd-f86c-44a3-b905-18313ef14b07
             -   title: Creating A Custom Class
                 uuid: 65041e3b-d8fe-4a43-bab1-15f921c6e4df
                 contents:
@@ -321,12 +327,6 @@ track:
                 -   title: Word Play
                     source: https://github.com/learn-co-curriculum/word-play
                     uuid: b93ed849-4ff3-4029-9c11-9312ef107b13
-            -   title: Your First Property
-                uuid: 404be540-81ec-4c45-9657-515b71b74771
-                contents:
-                -   title: Objc Holiday Properties
-                    source: https://github.com/learn-co-curriculum/objc-holiday-properties
-                    uuid: 46ca09cd-f86c-44a3-b905-18313ef14b07
         -   title: Inheritance
             uuid: 8c46003f-b0d2-42cf-bec2-3ba883d23029
             lessons:
