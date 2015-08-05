@@ -285,6 +285,12 @@ track:
                 -   title: Reading Ios Properties
                     source: https://github.com/learn-co-curriculum/reading-ios-properties
                     uuid: 55cfd7b5-002a-452e-be4d-4a5f55971b60
+            -   title: Creating A Custom Class
+                uuid: 65041e3b-d8fe-4a43-bab1-15f921c6e4df
+                contents:
+                -   title: Reading Ios Creating Custom Class
+                    source: https://github.com/learn-co-curriculum/reading-ios-creating-custom-class
+                    uuid: 4d70d6f4-bd84-4275-9377-0c1e94a119a1
             -   title: Instance Variables Practice
                 uuid: 265d0447-f70f-403f-8c3c-8c8167503375
                 contents:
@@ -309,12 +315,6 @@ track:
                 -   title: Word Play
                     source: https://github.com/learn-co-curriculum/word-play
                     uuid: b93ed849-4ff3-4029-9c11-9312ef107b13
-            -   title: Creating A Custom Class
-                uuid: 65041e3b-d8fe-4a43-bab1-15f921c6e4df
-                contents:
-                -   title: Reading Ios Creating Custom Class
-                    source: https://github.com/learn-co-curriculum/reading-ios-creating-custom-class
-                    uuid: 4d70d6f4-bd84-4275-9377-0c1e94a119a1
         -   title: Inheritance
             uuid: 8c46003f-b0d2-42cf-bec2-3ba883d23029
             lessons:
