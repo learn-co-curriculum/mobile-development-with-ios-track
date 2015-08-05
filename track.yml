@@ -315,6 +315,12 @@ track:
                 -   title: Word Play
                     source: https://github.com/learn-co-curriculum/word-play
                     uuid: b93ed849-4ff3-4029-9c11-9312ef107b13
+            -   title: Class vs Instance
+                uuid: e384301f-974a-4316-aa77-70c2f5d7745e
+                contents:
+                -   title: Reading Ios Class Vs Instance
+                    source: https://github.com/learn-co-curriculum/reading-ios-class-vs-instance
+                    uuid: 85cd634e-dbe4-417d-afbc-3ff863ce5318
         -   title: Inheritance
             uuid: 8c46003f-b0d2-42cf-bec2-3ba883d23029
             lessons:
