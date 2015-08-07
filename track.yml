@@ -198,7 +198,7 @@ track:
                 -   title: Ios Variable Scope
                     source: https://github.com/learn-co-curriculum/ios-variable-scope
                     uuid: 9d89d2ae-8507-42e6-90db-7681af33ca52
-            -   title: Debugging
+            -   title: 'Xcode: Debugging'
                 uuid: fcd1aaf0-725e-4e30-a947-46c15838baac
                 contents:
                 -   title: Reading Ios Debugging
