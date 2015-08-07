@@ -75,7 +75,7 @@ track:
         -   title: Basic Objective-C
             uuid: 439d7590-840b-466d-a4c7-2741d71ca6a4
             lessons:
-            -   title: Just Enough XCode
+            -   title: 'Xcode: Just Enough'
                 uuid: 192be27f-f242-49a9-b48b-2e71ae6ebb37
                 contents:
                 -   title: Reading Ios Intro To Xcode
