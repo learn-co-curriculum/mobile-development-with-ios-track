@@ -303,12 +303,6 @@ track:
                 -   title: Reading Ios Creating Custom Class
                     source: https://github.com/learn-co-curriculum/reading-ios-creating-custom-class
                     uuid: 4d70d6f4-bd84-4275-9377-0c1e94a119a1
-            -   title: Instance Variables Practice
-                uuid: 265d0447-f70f-403f-8c3c-8c8167503375
-                contents:
-                -   title: Oo Sentence
-                    source: https://github.com/learn-co-curriculum/oo-sentence
-                    uuid: ee4d6d75-6b02-49b1-bf57-0aa5248595f3
             -   title: Properties in Classes
                 uuid: 53a8fa57-2d59-41c7-bd87-adb7a6310ab1
                 contents:
