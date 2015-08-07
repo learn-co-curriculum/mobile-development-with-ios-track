@@ -177,6 +177,12 @@ track:
                 -   title: Objc Deli
                     source: https://github.com/learn-co-curriculum/objc-deli
                     uuid: c77c96f9-ca43-4a1d-a11a-73ffb932fad1
+            -   title: 'Xcode: An Overview'
+                uuid: 6521f325-b4ea-4eeb-ba02-e3ba6f5bf2f9
+                contents:
+                -   title: Reading Ios Xcode Overview
+                    source: https://github.com/learn-co-curriculum/reading-ios-xcode-overview
+                    uuid: c2da0779-55d2-4e36-a626-b8e29a271274
         -   title: Scope and Debugging
             uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
             lessons:
