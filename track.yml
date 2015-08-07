@@ -81,7 +81,7 @@ track:
                 -   title: Reading Ios Intro To Xcode
                     source: https://github.com/learn-co-curriculum/reading-ios-intro-to-xcode
                     uuid: c1b2d55a-4e7b-4347-bd1e-9ec07b5ecf1e
-            -   title: Write Your First Program!
+            -   title: Your First NSLog
                 uuid: 965cb444-680e-4572-a832-1be625385256
                 contents:
                 -   title: Ios Your First Ns Log
