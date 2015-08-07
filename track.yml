@@ -321,12 +321,6 @@ track:
                 -   title: Location Trivia Objects
                     source: https://github.com/learn-co-curriculum/locationTrivia-objects
                     uuid: 129d6b04-1284-41cb-9de0-6a38d378e4e9
-            -   title: Modifing Setters and Getters
-                uuid: c84daa19-02a1-4bff-ae63-13478c5ac24d
-                contents:
-                -   title: Word Play
-                    source: https://github.com/learn-co-curriculum/word-play
-                    uuid: b93ed849-4ff3-4029-9c11-9312ef107b13
         -   title: Inheritance
             uuid: 8c46003f-b0d2-42cf-bec2-3ba883d23029
             lessons:
