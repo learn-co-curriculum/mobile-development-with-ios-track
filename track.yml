@@ -309,6 +309,12 @@ track:
                 -   title: Reading Ios Creating Custom Class
                     source: https://github.com/learn-co-curriculum/reading-ios-creating-custom-class
                     uuid: 4d70d6f4-bd84-4275-9377-0c1e94a119a1
+            -   title: Property Visibility
+                uuid: 9e75beda-72ff-4ce7-8bcd-c9105f7c0d67
+                contents:
+                -   title: Reading Ios Property Visibility
+                    source: https://github.com/learn-co-curriculum/reading-ios-property-visibility
+                    uuid: 87268590-ae0a-4370-bbbc-4f9ef8961c97
             -   title: Properties in Classes
                 uuid: 53a8fa57-2d59-41c7-bd87-adb7a6310ab1
                 contents:
@@ -321,12 +327,6 @@ track:
                 -   title: Location Trivia Objects
                     source: https://github.com/learn-co-curriculum/locationTrivia-objects
                     uuid: 129d6b04-1284-41cb-9de0-6a38d378e4e9
-            -   title: Property Visibility
-                uuid: 9e75beda-72ff-4ce7-8bcd-c9105f7c0d67
-                contents:
-                -   title: Reading Ios Property Visibility
-                    source: https://github.com/learn-co-curriculum/reading-ios-property-visibility
-                    uuid: 87268590-ae0a-4370-bbbc-4f9ef8961c97
         -   title: Inheritance
             uuid: 8c46003f-b0d2-42cf-bec2-3ba883d23029
             lessons:
