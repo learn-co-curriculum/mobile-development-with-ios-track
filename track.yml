@@ -315,6 +315,12 @@ track:
                 -   title: Reading Ios Property Visibility
                     source: https://github.com/learn-co-curriculum/reading-ios-property-visibility
                     uuid: 87268590-ae0a-4370-bbbc-4f9ef8961c97
+            -   title: Writing Initializers
+                uuid: 2cf6e8a4-442b-47fc-8a77-8cd8b56edd5b
+                contents:
+                -   title: Reading Ios Writing Initializers
+                    source: https://github.com/learn-co-curriculum/reading-ios-writing-initializers
+                    uuid: 5ac16372-0fc5-4a1a-a732-f2c5a045a060
             -   title: Properties in Classes
                 uuid: 53a8fa57-2d59-41c7-bd87-adb7a6310ab1
                 contents:
