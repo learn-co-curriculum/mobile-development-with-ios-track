@@ -339,6 +339,12 @@ track:
                 -   title: Location Trivia Objects
                     source: https://github.com/learn-co-curriculum/locationTrivia-objects
                     uuid: 129d6b04-1284-41cb-9de0-6a38d378e4e9
+            -   title: 'Code-Along: Classy Methods'
+                uuid: c803cda6-b7ce-43c4-a805-56fcfb263637
+                contents:
+                -   title: Objc Classy Methods
+                    source: https://github.com/learn-co-curriculum/objc-classy-methods
+                    uuid: 3a19d835-2d44-408d-81b7-88b686ca40e5
         -   title: Inheritance
             uuid: 8c46003f-b0d2-42cf-bec2-3ba883d23029
             lessons:
