@@ -345,6 +345,12 @@ track:
                 -   title: Location Trivia Objects
                     source: https://github.com/learn-co-curriculum/locationTrivia-objects
                     uuid: 129d6b04-1284-41cb-9de0-6a38d378e4e9
+            -   title: FISSentence
+                uuid: 2f5d5455-6161-4332-a971-2a4d230c7bf1
+                contents:
+                -   title: Objc Fissentence
+                    source: https://github.com/learn-co-curriculum/objc-fissentence
+                    uuid: a616919f-310b-4648-b543-c347eb538666
         -   title: Inheritance
             uuid: 8c46003f-b0d2-42cf-bec2-3ba883d23029
             lessons:
