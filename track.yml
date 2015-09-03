@@ -183,6 +183,12 @@ track:
                 -   title: Objc Deli
                     source: https://github.com/learn-co-curriculum/objc-deli
                     uuid: c77c96f9-ca43-4a1d-a11a-73ffb932fad1
+            -   title: NSLogging
+                uuid: 36ac3316-f9d6-4684-91a4-7a8ea6c2042f
+                contents:
+                -   title: Reading Ios Nslog
+                    source: https://github.com/learn-co-curriculum/reading-ios-nslog
+                    uuid: 398c65be-4446-43ee-9b35-2ab20b1aaa7e
         -   title: Scope and Debugging
             uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
             lessons:
