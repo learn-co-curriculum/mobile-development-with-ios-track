@@ -87,6 +87,12 @@ track:
                 -   title: Ios Your First Ns Log
                     source: https://github.com/learn-co-curriculum/ios-your-first-NSLog
                     uuid: 26380a43-3e1a-4a10-bf47-7000232ca312
+            -   title: NSLogging
+                uuid: 36ac3316-f9d6-4684-91a4-7a8ea6c2042f
+                contents:
+                -   title: Reading Ios Nslog
+                    source: https://github.com/learn-co-curriculum/reading-ios-nslog
+                    uuid: 398c65be-4446-43ee-9b35-2ab20b1aaa7e
             -   title: Variable Basics
                 uuid: 8ae3ac62-1bff-407e-9962-a08dcf8a5735
                 contents:
@@ -183,12 +189,6 @@ track:
                 -   title: Objc Deli
                     source: https://github.com/learn-co-curriculum/objc-deli
                     uuid: c77c96f9-ca43-4a1d-a11a-73ffb932fad1
-            -   title: NSLogging
-                uuid: 36ac3316-f9d6-4684-91a4-7a8ea6c2042f
-                contents:
-                -   title: Reading Ios Nslog
-                    source: https://github.com/learn-co-curriculum/reading-ios-nslog
-                    uuid: 398c65be-4446-43ee-9b35-2ab20b1aaa7e
         -   title: Scope and Debugging
             uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
             lessons:
