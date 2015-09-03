@@ -189,6 +189,12 @@ track:
                 -   title: Objc Deli
                     source: https://github.com/learn-co-curriculum/objc-deli
                     uuid: c77c96f9-ca43-4a1d-a11a-73ffb932fad1
+            -   title: 'Code-Along: Interpolate'
+                uuid: 14622183-37aa-4251-8a26-53eb13f93a80
+                contents:
+                -   title: Objc Interpolate
+                    source: https://github.com/learn-co-curriculum/objc-interpolate
+                    uuid: 5db8ed71-2b9f-472a-bd3f-92f7468eae6a
         -   title: Scope and Debugging
             uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
             lessons:
