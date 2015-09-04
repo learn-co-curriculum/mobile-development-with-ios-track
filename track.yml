@@ -93,7 +93,7 @@ track:
                 -   title: Reading Ios Nslog
                     source: https://github.com/learn-co-curriculum/reading-ios-nslog
                     uuid: 398c65be-4446-43ee-9b35-2ab20b1aaa7e
-            -   title: 'Code-Along: Interpolate'
+            -   title: 'Code-Along: Interpolate!'
                 uuid: 14622183-37aa-4251-8a26-53eb13f93a80
                 contents:
                 -   title: Objc Interpolate
