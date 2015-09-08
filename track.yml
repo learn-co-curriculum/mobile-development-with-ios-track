@@ -201,6 +201,12 @@ track:
                 -   title: Objc Deli
                     source: https://github.com/learn-co-curriculum/objc-deli
                     uuid: c77c96f9-ca43-4a1d-a11a-73ffb932fad1
+            -   title: 'Code-Along: Simple Math'
+                uuid: ad6959ec-16d7-4a74-aa81-1164d829ab0e
+                contents:
+                -   title: Objc Simple Math
+                    source: https://github.com/learn-co-curriculum/objc-simple-math
+                    uuid: 7de73bcc-e5af-47d8-89c0-793399184a4d
         -   title: Scope and Debugging
             uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
             lessons:
