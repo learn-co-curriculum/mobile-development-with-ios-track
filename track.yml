@@ -111,18 +111,6 @@ track:
                 -   title: Objc Xcode Warnings Errors
                     source: https://github.com/learn-co-curriculum/objc-xcode-warnings-errors
                     uuid: 6ca06fd1-f63b-4493-9f01-54abe410924f
-            -   title: Primitives & Operators
-                uuid: d574014f-209b-4d9a-b91c-9a13cc719b6f
-                contents:
-                -   title: Reading Ios Primitives And Operators
-                    source: https://github.com/learn-co-curriculum/reading-ios-primitives-and-operators
-                    uuid: 99b89307-66e7-4224-bf45-2c65073c810a
-            -   title: 'Code-Along: Simple Math'
-                uuid: ad6959ec-16d7-4a74-aa81-1164d829ab0e
-                contents:
-                -   title: Objc Simple Math
-                    source: https://github.com/learn-co-curriculum/objc-simple-math
-                    uuid: 7de73bcc-e5af-47d8-89c0-793399184a4d
             -   title: Calling Methods
                 uuid: f5b276e4-c964-4aa9-becb-654933e2136e
                 contents:
@@ -141,12 +129,6 @@ track:
                 -   title: Objc Parrot
                     source: https://github.com/learn-co-curriculum/objc-parrot
                     uuid: 48449462-c60a-497c-b08a-ba1817f58b4f
-            -   title: 'Reference: Objective-C Fundamentals'
-                uuid: bafe4c1e-65af-485f-a862-a84643490f21
-                contents:
-                -   title: Reference Guide Objc Fundamentals
-                    source: https://github.com/learn-co-curriculum/reference-guide-objc-fundamentals
-                    uuid: 3f4bd8e7-c17f-4e13-aaa7-ff71c950de04
             -   title: NSNumber and NSInteger
                 uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
                 contents:
@@ -219,6 +201,24 @@ track:
                 -   title: Objc Deli
                     source: https://github.com/learn-co-curriculum/objc-deli
                     uuid: c77c96f9-ca43-4a1d-a11a-73ffb932fad1
+            -   title: Primitives & Operators
+                uuid: d574014f-209b-4d9a-b91c-9a13cc719b6f
+                contents:
+                -   title: Reading Ios Primitives And Operators
+                    source: https://github.com/learn-co-curriculum/reading-ios-primitives-and-operators
+                    uuid: 99b89307-66e7-4224-bf45-2c65073c810a
+            -   title: 'Code-Along: Simple Math'
+                uuid: ad6959ec-16d7-4a74-aa81-1164d829ab0e
+                contents:
+                -   title: Objc Simple Math
+                    source: https://github.com/learn-co-curriculum/objc-simple-math
+                    uuid: 7de73bcc-e5af-47d8-89c0-793399184a4d
+            -   title: 'Reference: Objective-C Fundamentals'
+                uuid: bafe4c1e-65af-485f-a862-a84643490f21
+                contents:
+                -   title: Reference Guide Objc Fundamentals
+                    source: https://github.com/learn-co-curriculum/reference-guide-objc-fundamentals
+                    uuid: 3f4bd8e7-c17f-4e13-aaa7-ff71c950de04
         -   title: Scope and Debugging
             uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
             lessons:
