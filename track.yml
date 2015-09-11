@@ -135,6 +135,12 @@ track:
                 -   title: Objc Parrot
                     source: https://github.com/learn-co-curriculum/objc-parrot
                     uuid: 48449462-c60a-497c-b08a-ba1817f58b4f
+            -   title: 'Reference: Objective-C Fundamentals'
+                uuid: bafe4c1e-65af-485f-a862-a84643490f21
+                contents:
+                -   title: Reference Guide Objc Fundamentals
+                    source: https://github.com/learn-co-curriculum/reference-guide-objc-fundamentals
+                    uuid: 3f4bd8e7-c17f-4e13-aaa7-ff71c950de04
             -   title: NSNumber and NSInteger
                 uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
                 contents:
@@ -213,12 +219,6 @@ track:
                 -   title: Objc Simple Math
                     source: https://github.com/learn-co-curriculum/objc-simple-math
                     uuid: 7de73bcc-e5af-47d8-89c0-793399184a4d
-            -   title: 'Reference: Objective-C Fundamentals'
-                uuid: bafe4c1e-65af-485f-a862-a84643490f21
-                contents:
-                -   title: Reference Guide Objc Fundamentals
-                    source: https://github.com/learn-co-curriculum/reference-guide-objc-fundamentals
-                    uuid: 3f4bd8e7-c17f-4e13-aaa7-ff71c950de04
         -   title: Scope and Debugging
             uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
             lessons:
