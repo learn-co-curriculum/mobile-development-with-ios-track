@@ -177,7 +177,7 @@ track:
                 -   title: Reading Ios For Loop
                     source: https://github.com/learn-co-curriculum/reading-ios-for-loop
                     uuid: d55875f5-ea1e-41d0-8f7f-44562fc1466b
-            -   title: FizzBuzz
+            -   title: 'Code-Along: FizzBuzz'
                 uuid: 7de31652-e970-4961-9606-4fd95b7dc999
                 contents:
                 -   title: Objc Fizzbuzz
