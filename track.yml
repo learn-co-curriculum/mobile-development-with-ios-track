@@ -72,7 +72,7 @@ track:
     -   title: Objective-C Basics
         uuid: 0f21fcc4-293a-408f-ad67-2dd047db2196
         units:
-        -   title: Basic Objective-C
+        -   title: Objective-C Fundamentals
             uuid: 439d7590-840b-466d-a4c7-2741d71ca6a4
             lessons:
             -   title: 'Xcode: Just Enough'
@@ -147,6 +147,8 @@ track:
                 -   title: Reference Guide Objc Fundamentals
                     source: https://github.com/learn-co-curriculum/reference-guide-objc-fundamentals
                     uuid: 3f4bd8e7-c17f-4e13-aaa7-ff71c950de04
+        -   title: Basic Structures
+            lessons:
             -   title: 'Xcode: An Overview'
                 uuid: 6521f325-b4ea-4eeb-ba02-e3ba6f5bf2f9
                 contents:
@@ -213,12 +215,6 @@ track:
                 -   title: Wwdc Badges Methods
                     source: https://github.com/learn-co-curriculum/wwdc-badges-methods
                     uuid: d38f8d7d-26cc-4545-8aee-9919080465f7
-            -   title: NSNumber and NSInteger
-                uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
-                contents:
-                -   title: Reading Ios Nsnumber V Nsinteger
-                    source: https://github.com/learn-co-curriculum/reading-ios-nsnumber-v-nsinteger
-                    uuid: 1cb7d556-f6af-4c91-ade8-725314d88893
             -   title: Deli Counter
                 uuid: d997220e-e44e-484f-9733-eb0d706ff07f
                 contents:
@@ -228,6 +224,12 @@ track:
         -   title: Scope and Debugging
             uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
             lessons:
+            -   title: NSNumber and NSInteger
+                uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
+                contents:
+                -   title: Reading Ios Nsnumber V Nsinteger
+                    source: https://github.com/learn-co-curriculum/reading-ios-nsnumber-v-nsinteger
+                    uuid: 1cb7d556-f6af-4c91-ade8-725314d88893
             -   title: Scope
                 uuid: 93bc35d3-d179-4bf9-b6b7-47b9c5b89eab
                 contents:
