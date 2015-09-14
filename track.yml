@@ -147,12 +147,6 @@ track:
                 -   title: Reference Guide Objc Fundamentals
                     source: https://github.com/learn-co-curriculum/reference-guide-objc-fundamentals
                     uuid: 3f4bd8e7-c17f-4e13-aaa7-ff71c950de04
-            -   title: NSNumber and NSInteger
-                uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
-                contents:
-                -   title: Reading Ios Nsnumber V Nsinteger
-                    source: https://github.com/learn-co-curriculum/reading-ios-nsnumber-v-nsinteger
-                    uuid: 1cb7d556-f6af-4c91-ade8-725314d88893
             -   title: 'Xcode: An Overview'
                 uuid: 6521f325-b4ea-4eeb-ba02-e3ba6f5bf2f9
                 contents:
@@ -189,6 +183,12 @@ track:
                 -   title: Reading Ios Nsarray
                     source: https://github.com/learn-co-curriculum/reading-ios-nsarray
                     uuid: 2707279a-6047-4956-bef8-b85d911125f5
+            -   title: NSNumber and NSInteger
+                uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
+                contents:
+                -   title: Reading Ios Nsnumber V Nsinteger
+                    source: https://github.com/learn-co-curriculum/reading-ios-nsnumber-v-nsinteger
+                    uuid: 1cb7d556-f6af-4c91-ade8-725314d88893
             -   title: WWDC Badges
                 uuid: 8c9e0416-2436-4385-a184-27ce0d5c5779
                 contents:
