@@ -153,6 +153,12 @@ track:
                 -   title: Reading Ios Nsnumber V Nsinteger
                     source: https://github.com/learn-co-curriculum/reading-ios-nsnumber-v-nsinteger
                     uuid: 1cb7d556-f6af-4c91-ade8-725314d88893
+            -   title: 'Xcode: An Overview'
+                uuid: 6521f325-b4ea-4eeb-ba02-e3ba6f5bf2f9
+                contents:
+                -   title: Reading Ios Xcode Overview
+                    source: https://github.com/learn-co-curriculum/reading-ios-xcode-overview
+                    uuid: c2da0779-55d2-4e36-a626-b8e29a271274
             -   title: Conditionals
                 uuid: 66e975a4-742b-47c1-afd3-df1c184b3f48
                 contents:
@@ -165,12 +171,6 @@ track:
                 -   title: Objc Speaking Grandma
                     source: https://github.com/learn-co-curriculum/objc-speaking-grandma
                     uuid: 5434c0a1-58aa-444b-a750-142108dff453
-            -   title: 'Xcode: An Overview'
-                uuid: 6521f325-b4ea-4eeb-ba02-e3ba6f5bf2f9
-                contents:
-                -   title: Reading Ios Xcode Overview
-                    source: https://github.com/learn-co-curriculum/reading-ios-xcode-overview
-                    uuid: c2da0779-55d2-4e36-a626-b8e29a271274
             -   title: The 'for' Loop
                 uuid: f1c3343b-7811-47cf-91a8-5c4827b69236
                 contents:
