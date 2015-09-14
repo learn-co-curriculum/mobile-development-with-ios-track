@@ -225,6 +225,9 @@ track:
                 -   title: Objc Deli
                     source: https://github.com/learn-co-curriculum/objc-deli
                     uuid: c77c96f9-ca43-4a1d-a11a-73ffb932fad1
+        -   title: Basic Structures
+            uuid: e6122792-0d34-45b4-93d8-36db07b35947
+            lessons: []
         -   title: Scope and Debugging
             uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
             lessons:
@@ -315,9 +318,6 @@ track:
                 -   title: Location Trivia Dictionaries
                     source: https://github.com/learn-co-curriculum/locationTrivia-Dictionaries
                     uuid: 13870ef9-ad24-4bce-9021-e9850d180a15
-        -   title: Basic Structures
-            uuid: e6122792-0d34-45b4-93d8-36db07b35947
-            lessons: []
     -   title: Objects in Objective-C
         uuid: 0563c0ba-8a2e-454e-a289-12795e11b2cf
         units:
