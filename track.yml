@@ -207,18 +207,18 @@ track:
                 -   title: Reading Ios Creating Methods
                     source: https://github.com/learn-co-curriculum/reading-ios-creatingMethods
                     uuid: e1359813-ac55-4d79-a66b-d763384c0e90
-            -   title: NSNumber and NSInteger
-                uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
-                contents:
-                -   title: Reading Ios Nsnumber V Nsinteger
-                    source: https://github.com/learn-co-curriculum/reading-ios-nsnumber-v-nsinteger
-                    uuid: 1cb7d556-f6af-4c91-ade8-725314d88893
             -   title: WWDC Badges With Methods
                 uuid: e9b94d84-db36-46d2-8058-81b945348498
                 contents:
                 -   title: Wwdc Badges Methods
                     source: https://github.com/learn-co-curriculum/wwdc-badges-methods
                     uuid: d38f8d7d-26cc-4545-8aee-9919080465f7
+            -   title: NSNumber and NSInteger
+                uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
+                contents:
+                -   title: Reading Ios Nsnumber V Nsinteger
+                    source: https://github.com/learn-co-curriculum/reading-ios-nsnumber-v-nsinteger
+                    uuid: 1cb7d556-f6af-4c91-ade8-725314d88893
             -   title: Deli Counter
                 uuid: d997220e-e44e-484f-9733-eb0d706ff07f
                 contents:
