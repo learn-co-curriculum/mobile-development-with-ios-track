@@ -306,18 +306,18 @@ track:
                 -   title: Objc Apples And Holidays
                     source: https://github.com/learn-co-curriculum/objc-ApplesAndHolidays
                     uuid: 9c961091-82f3-4a7f-a761-35715b131f56
-            -   title: Searching and Sorting Practice
-                uuid: 310f8efa-93ed-472c-b32a-8aca80a02757
-                contents:
-                -   title: Ios Collections
-                    source: https://github.com/learn-co-curriculum/ios-collections
-                    uuid: 473b8b62-ead0-4d95-80c7-83862ec4878a
             -   title: Sorting
                 uuid: 1b110d04-277b-4309-b9f6-51eb75553c2b
                 contents:
                 -   title: Reading Ios Sorting Basic
                     source: https://github.com/learn-co-curriculum/reading-ios-sorting-basic
                     uuid: 0715ffb5-8943-4e18-b0ea-389df887a0f4
+            -   title: Searching and Sorting Practice
+                uuid: 310f8efa-93ed-472c-b32a-8aca80a02757
+                contents:
+                -   title: Ios Collections
+                    source: https://github.com/learn-co-curriculum/ios-collections
+                    uuid: 473b8b62-ead0-4d95-80c7-83862ec4878a
             -   title: Location Trivia - Dictionaries
                 uuid: d4197775-d918-4acb-b86c-ae4c2c6b3992
                 contents:
