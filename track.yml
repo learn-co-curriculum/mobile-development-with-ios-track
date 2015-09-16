@@ -294,7 +294,7 @@ track:
                 -   title: Reading Ios Nested Data Structures
                     source: https://github.com/learn-co-curriculum/reading-ios-nestedDataStructures
                     uuid: ad1b1b9c-c331-4c65-bc55-7b9900b29df7
-            -   title: NSPredicate
+            -   title: Filtering With NSPredicate
                 uuid: 350e6bea-cb23-4a7d-b491-77261caa3b90
                 contents:
                 -   title: Reading Ios Filtering Basic
