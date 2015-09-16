@@ -204,18 +204,18 @@ track:
                 -   title: Objc Palindrome Detector
                     source: https://github.com/learn-co-curriculum/objc-palindrome-detector
                     uuid: 9f396b95-eef9-47ab-a917-0369bfb541c4
-            -   title: NSMutableString
-                uuid: 96cb059d-45c7-44ae-99eb-866f649be02c
-                contents:
-                -   title: Reading Ios Nsmutablestring
-                    source: https://github.com/learn-co-curriculum/reading-ios-nsmutablestring
-                    uuid: 776fdd8b-1b5d-45d4-8426-ab0d94787ed7
             -   title: Using Tests
                 uuid: 0698d408-86df-4b77-b95e-04b814f3a029
                 contents:
                 -   title: Reading Ios Using Tests
                     source: https://github.com/learn-co-curriculum/reading-ios-using-tests
                     uuid: c0f9d035-c5de-4756-8322-4103c5a4555d
+            -   title: NSMutableString
+                uuid: 96cb059d-45c7-44ae-99eb-866f649be02c
+                contents:
+                -   title: Reading Ios Nsmutablestring
+                    source: https://github.com/learn-co-curriculum/reading-ios-nsmutablestring
+                    uuid: 776fdd8b-1b5d-45d4-8426-ab0d94787ed7
             -   title: WWDC Badges With Methods
                 uuid: e9b94d84-db36-46d2-8058-81b945348498
                 contents:
