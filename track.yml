@@ -312,7 +312,7 @@ track:
                 -   title: Reading Ios Sorting Basic
                     source: https://github.com/learn-co-curriculum/reading-ios-sorting-basic
                     uuid: 0715ffb5-8943-4e18-b0ea-389df887a0f4
-            -   title: Searching and Sorting Practice
+            -   title: Collections Practice
                 uuid: 310f8efa-93ed-472c-b32a-8aca80a02757
                 contents:
                 -   title: Ios Collections
