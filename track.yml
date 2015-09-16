@@ -198,6 +198,12 @@ track:
                 -   title: Reading Ios Creating Methods
                     source: https://github.com/learn-co-curriculum/reading-ios-creatingMethods
                     uuid: e1359813-ac55-4d79-a66b-d763384c0e90
+            -   title: 'Code-Along: Palindrome Detector'
+                uuid: a13ba184-bf71-483c-8cc7-931c7cafca8d
+                contents:
+                -   title: Objc Palindrome Detector
+                    source: https://github.com/learn-co-curriculum/objc-palindrome-detector
+                    uuid: 9f396b95-eef9-47ab-a917-0369bfb541c4
             -   title: NSMutableString
                 uuid: 96cb059d-45c7-44ae-99eb-866f649be02c
                 contents:
@@ -222,12 +228,6 @@ track:
                 -   title: Objc Deli
                     source: https://github.com/learn-co-curriculum/objc-deli
                     uuid: c77c96f9-ca43-4a1d-a11a-73ffb932fad1
-            -   title: 'Code-Along: Palindrome Detector'
-                uuid: a13ba184-bf71-483c-8cc7-931c7cafca8d
-                contents:
-                -   title: Objc Palindrome Detector
-                    source: https://github.com/learn-co-curriculum/objc-palindrome-detector
-                    uuid: 9f396b95-eef9-47ab-a917-0369bfb541c4
         -   title: Scope and Debugging
             uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
             lessons:
