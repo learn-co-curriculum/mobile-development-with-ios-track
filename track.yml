@@ -510,12 +510,6 @@ track:
                 -   title: Objc Navigation Controllers
                     source: https://github.com/learn-co-curriculum/objc-NavigationControllers
                     uuid: b2b8f810-78ac-492e-8950-c70bd8ba0ae6
-            -   title: Passing Data Between VCs
-                uuid: 8741216d-b9ea-4039-94f9-c57fd41b0f67
-                contents:
-                -   title: This Button Is Epoch
-                    source: https://github.com/learn-co-curriculum/this-button-is-epoch
-                    uuid: e5f39da9-b31a-40ae-bb00-eaa06723e332
             -   title: 'ADV: More Practice with Nav Controllers'
                 uuid: 7c4669b9-72de-4d52-b9c7-3fe6f06ed43c
                 contents:
