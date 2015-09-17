@@ -495,6 +495,12 @@ track:
                 -   title: Jukebox Views
                     source: https://github.com/learn-co-curriculum/jukebox-views
                     uuid: 9d9f10e4-aee0-4a0c-8c57-429ab33aedf7
+            -   title: Epoch Button
+                uuid: 546349cc-9d4f-4c5b-bfb4-66d3e4ebc31f
+                contents:
+                -   title: This Button Is Epoch
+                    source: https://github.com/learn-co-curriculum/this-button-is-epoch
+                    uuid: 0e53f22e-e77b-4623-acb5-f650cfcdb7eb
         -   title: Multiple VCs with Nav Controllers
             uuid: e6a0fa9b-25be-43cf-bf8f-feb6122c8c0f
             lessons:
