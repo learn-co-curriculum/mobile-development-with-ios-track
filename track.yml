@@ -261,6 +261,12 @@ track:
                 -   title: Reading Ios Nsnumber V Nsinteger
                     source: https://github.com/learn-co-curriculum/reading-ios-nsnumber-v-nsinteger
                     uuid: 1cb7d556-f6af-4c91-ade8-725314d88893
+            -   title: Fibonacci Finder
+                uuid: c8b3a3ad-705c-4e6c-9820-edd772638b61
+                contents:
+                -   title: Ios Fibo Finder
+                    source: https://github.com/learn-co-curriculum/ios-fibo-finder
+                    uuid: 66660a94-a1cb-4b85-abe2-a7bdb45a3dcb
             -   title: 'Xcode: Debugging'
                 uuid: fcd1aaf0-725e-4e30-a947-46c15838baac
                 contents:
@@ -273,12 +279,6 @@ track:
                 -   title: Objc Cartoon Collections
                     source: https://github.com/learn-co-curriculum/objc-cartoon-collections
                     uuid: f3882ab1-5653-4e85-a7dc-d7c8261f9042
-            -   title: Fibonacci Finder
-                uuid: c8b3a3ad-705c-4e6c-9820-edd772638b61
-                contents:
-                -   title: Ios Fibo Finder
-                    source: https://github.com/learn-co-curriculum/ios-fibo-finder
-                    uuid: 66660a94-a1cb-4b85-abe2-a7bdb45a3dcb
         -   title: Collections
             uuid: 61ea1f39-6476-47bd-a1d9-996c68cdf4db
             lessons:
