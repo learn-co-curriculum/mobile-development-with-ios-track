@@ -216,7 +216,7 @@ track:
                 -   title: Reading Ios Using Tests
                     source: https://github.com/learn-co-curriculum/reading-ios-using-tests
                     uuid: c0f9d035-c5de-4756-8322-4103c5a4555d
-            -   title: 'Code-Along: Palindrome Inspector'
+            -   title: Palindrome Inspector
                 uuid: 64cdef97-6799-439f-a4ce-ed9c2abaf888
                 contents:
                 -   title: Objc Palindrome Inspector
