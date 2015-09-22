@@ -237,12 +237,6 @@ track:
         -   title: Scope and Debugging
             uuid: 00f56bab-2443-47e8-bcb5-94d59251d2d3
             lessons:
-            -   title: NSNumber and NSInteger
-                uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
-                contents:
-                -   title: Reading Ios Nsnumber V Nsinteger
-                    source: https://github.com/learn-co-curriculum/reading-ios-nsnumber-v-nsinteger
-                    uuid: 1cb7d556-f6af-4c91-ade8-725314d88893
             -   title: Scope
                 uuid: 93bc35d3-d179-4bf9-b6b7-47b9c5b89eab
                 contents:
@@ -255,6 +249,12 @@ track:
                 -   title: Ios Variable Scope
                     source: https://github.com/learn-co-curriculum/ios-variable-scope
                     uuid: 9d89d2ae-8507-42e6-90db-7681af33ca52
+            -   title: NSNumber and NSInteger
+                uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
+                contents:
+                -   title: Reading Ios Nsnumber V Nsinteger
+                    source: https://github.com/learn-co-curriculum/reading-ios-nsnumber-v-nsinteger
+                    uuid: 1cb7d556-f6af-4c91-ade8-725314d88893
             -   title: 'Xcode: Debugging'
                 uuid: fcd1aaf0-725e-4e30-a947-46c15838baac
                 contents:
