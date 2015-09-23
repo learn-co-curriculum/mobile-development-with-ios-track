@@ -255,7 +255,7 @@ track:
                 -   title: Ios Variable Scope
                     source: https://github.com/learn-co-curriculum/ios-variable-scope
                     uuid: 9d89d2ae-8507-42e6-90db-7681af33ca52
-            -   title: NSNumber and NSInteger
+            -   title: NSNumber
                 uuid: 9725dd26-cb8b-4931-aa8c-c1386672bd01
                 contents:
                 -   title: Reading Ios Nsnumber V Nsinteger
