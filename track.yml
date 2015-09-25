@@ -423,7 +423,7 @@ track:
         -   title: Inheritance
             uuid: 8c46003f-b0d2-42cf-bec2-3ba883d23029
             lessons:
-            -   title: Intro to Inheritance
+            -   title: Introduction to Inheritance
                 uuid: 265d3160-a3db-4ede-8471-aa53aa9b5228
                 contents:
                 -   title: Reading Ios Inheritance
