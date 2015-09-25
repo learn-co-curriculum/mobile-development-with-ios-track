@@ -441,7 +441,7 @@ track:
                 -   title: Oop Cards Model
                     source: https://github.com/learn-co-curriculum/OOP-Cards-Model
                     uuid: b9654f03-632c-4fa8-b645-7e9e2ffe7de9
-            -   title: Converting Classes
+            -   title: Casting
                 uuid: 35b04363-7d92-4ed7-887a-0250d4b2e24b
                 contents:
                 -   title: Reading Objc Casting
