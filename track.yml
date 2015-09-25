@@ -435,7 +435,7 @@ track:
                 -   title: Oo Vehicle
                     source: https://github.com/learn-co-curriculum/OO-Vehicle
                     uuid: 13e575d8-aea4-4ace-938f-d0fd30ad967f
-            -   title: Initializers and Overriding
+            -   title: OOP-Cards-Model
                 uuid: e6237f7b-4703-4dc6-9502-fc2ae323a4ff
                 contents:
                 -   title: Oop Cards Model
