@@ -453,12 +453,6 @@ track:
                 -   title: Objc Pet Cast
                     source: https://github.com/learn-co-curriculum/objc-PetCast
                     uuid: edb8b81f-aa0a-4e15-ac43-c79f0c3d2b7a
-            -   title: OOP Design
-                uuid: 0a00a99e-c4fc-40bc-9806-f8b6787f83e4
-                contents:
-                -   title: Ios Reading Inheritance Vs Composition
-                    source: https://github.com/learn-co-curriculum/ios-reading-inheritanceVsComposition
-                    uuid: d2fafcfc-74c6-40d4-baae-3bd4af430286
             -   title: Categories
                 uuid: fb66c1f4-eccd-4851-b20a-fdbfab6cf18e
                 contents:
