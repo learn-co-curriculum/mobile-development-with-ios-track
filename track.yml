@@ -465,7 +465,7 @@ track:
                 -   title: Category Math
                     source: https://github.com/learn-co-curriculum/category-math
                     uuid: 96a871eb-645d-470b-a0ac-1a2063245f16
-            -   title: More OOP Design
+            -   title: Blackjack
                 uuid: da590874-b858-45e8-9637-af44920d7a00
                 contents:
                 -   title: Objc Black Jack
