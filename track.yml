@@ -591,7 +591,7 @@ track:
         -   title: Data Stores and Singletons
             uuid: 3f431f4b-267d-48d2-b90f-917def075a62
             lessons:
-            -   title: Intro To Data Stores
+            -   title: Location Trivia - Data Store
                 uuid: 2819234b-e760-4147-ab67-e65716959f22
                 contents:
                 -   title: Location Trivia Data Store
