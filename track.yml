@@ -597,7 +597,7 @@ track:
                 -   title: Location Trivia Data Store
                     source: https://github.com/learn-co-curriculum/locationTrivia-dataStore
                     uuid: 0ad1c084-5a7f-4b3e-865b-40a414ce583c
-            -   title: Relationships in Data Store
+            -   title: Location Trivia - Data Store Relationships
                 uuid: 79103bc4-d986-4c77-bb22-2dd6cff5f6ca
                 contents:
                 -   title: Location Trivia Data Store Relationships
