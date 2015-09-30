@@ -624,7 +624,7 @@ track:
                 -   title: Slapchat Add
                     source: https://github.com/learn-co-curriculum/slapchat-add
                     uuid: 950dab53-336b-45ac-915d-2b80b6e7a66d
-            -   title: Relationships in Core Data
+            -   title: Slap Chat Relationships
                 uuid: d569c221-d770-4182-bf9c-faed1edf3ab1
                 contents:
                 -   title: Objc Slap Chat Relationships
