@@ -579,7 +579,7 @@ track:
                 -   title: Location Trivia Tests
                     source: https://github.com/learn-co-curriculum/locationTrivia-Tests
                     uuid: 5b4c004a-ee46-4cdc-8eb7-7b20bee9b2a2
-            -   title: Intermediate
+            -   title: Stale Indirect
                 uuid: b5a18dc1-9cbd-4843-980f-4b40c9aaeb9e
                 contents:
                 -   title: Stale Indirect
