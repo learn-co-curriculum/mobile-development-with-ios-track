@@ -435,12 +435,6 @@ track:
                 -   title: Oo Vehicle
                     source: https://github.com/learn-co-curriculum/OO-Vehicle
                     uuid: 13e575d8-aea4-4ace-938f-d0fd30ad967f
-            -   title: OOP-Cards-Model
-                uuid: e6237f7b-4703-4dc6-9502-fc2ae323a4ff
-                contents:
-                -   title: Oop Cards Model
-                    source: https://github.com/learn-co-curriculum/OOP-Cards-Model
-                    uuid: b9654f03-632c-4fa8-b645-7e9e2ffe7de9
             -   title: Casting
                 uuid: 35b04363-7d92-4ed7-887a-0250d4b2e24b
                 contents:
@@ -465,6 +459,12 @@ track:
                 -   title: Category Math
                     source: https://github.com/learn-co-curriculum/category-math
                     uuid: 96a871eb-645d-470b-a0ac-1a2063245f16
+            -   title: OOP-Cards-Model
+                uuid: e6237f7b-4703-4dc6-9502-fc2ae323a4ff
+                contents:
+                -   title: Oop Cards Model
+                    source: https://github.com/learn-co-curriculum/OOP-Cards-Model
+                    uuid: b9654f03-632c-4fa8-b645-7e9e2ffe7de9
             -   title: Blackjack
                 uuid: da590874-b858-45e8-9637-af44920d7a00
                 contents:
