@@ -606,7 +606,7 @@ track:
         -   title: Persisting Data
             uuid: 0ab3337a-9796-4df6-92c8-59912b71011b
             lessons:
-            -   title: Intro to Core Data
+            -   title: Slap Chat
                 uuid: d62c9300-24bb-4e35-baaa-fad66a996379
                 contents:
                 -   title: Objc Slap Chat
