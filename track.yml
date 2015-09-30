@@ -573,7 +573,7 @@ track:
         -   title: Unit Tests
             uuid: bf89620f-7be4-4a32-bc32-e92d4dd48b93
             lessons:
-            -   title: Basics
+            -   title: Location Trivia - Tests
                 uuid: af9638d7-969d-4c6a-b14a-e4ba67334d15
                 contents:
                 -   title: Location Trivia Tests
