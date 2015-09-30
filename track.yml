@@ -612,7 +612,7 @@ track:
                 -   title: Objc Slap Chat
                     source: https://github.com/learn-co-curriculum/objc-SlapChat
                     uuid: d7999b7c-dcd3-4a01-acc7-c355c6dae330
-            -   title: Searching/Sorting in Core Data
+            -   title: Search and Shout
                 uuid: 6e81ba70-4d82-4d89-8ee0-feaec90ff648
                 contents:
                 -   title: Search And Shout
