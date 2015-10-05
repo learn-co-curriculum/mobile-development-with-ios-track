@@ -495,7 +495,7 @@ track:
                 -   title: Objc Black Jack Views
                     source: https://github.com/learn-co-curriculum/objc-BlackJackViews
                     uuid: 523114c4-77e3-455c-84f3-128efaae5f37
-            -   title: "(optional) Cards Views"
+            -   title: "(advanced) Cards Views"
                 uuid: 8c1160a5-b9bd-413f-86d0-fe3ac0e8a048
                 contents:
                 -   title: Oop Cards Views
