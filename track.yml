@@ -477,7 +477,7 @@ track:
         -   title: Actions and Outlets
             uuid: 1efe8a64-6358-44f1-a249-9895aa58f5d0
             lessons:
-            -   title: Cards Simple Views
+            -   title: OOP Cards Simple Views
                 uuid: 98be5803-03fc-4bdf-af1b-5d4fb1d78303
                 contents:
                 -   title: Oop Cards Simple Views
