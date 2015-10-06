@@ -573,24 +573,6 @@ track:
                 -   title: Facepad
                     source: https://github.com/learn-co-curriculum/facepad
                     uuid: 5189e0b9-cc42-4f39-8520-1822093491af
-    -   title: DEPRECATED Writing Tests
-        uuid: aa7dbadc-fdc4-483c-a143-9c804c630c41
-        units:
-        -   title: Unit Tests
-            uuid: bf89620f-7be4-4a32-bc32-e92d4dd48b93
-            lessons:
-            -   title: Location Trivia - Tests
-                uuid: af9638d7-969d-4c6a-b14a-e4ba67334d15
-                contents:
-                -   title: Location Trivia Tests
-                    source: https://github.com/learn-co-curriculum/locationTrivia-Tests
-                    uuid: 5b4c004a-ee46-4cdc-8eb7-7b20bee9b2a2
-            -   title: Stale Indirect
-                uuid: b5a18dc1-9cbd-4843-980f-4b40c9aaeb9e
-                contents:
-                -   title: Stale Indirect
-                    source: https://github.com/learn-co-curriculum/stale-indirect
-                    uuid: 49d261b3-0837-418e-a495-3ff0e75a7f73
     -   title: Handling Data
         uuid: 662f274b-9499-48a9-937b-f1bef1285f60
         units:
@@ -996,3 +978,21 @@ track:
                 -   title: Swift Collections Volume One
                     source: https://github.com/learn-co-curriculum/swift-Collections-VolumeOne
                     uuid: e9bf211b-8ded-4527-ab3a-8454ae2dcf75
+    -   title: DEPRECATED Writing Tests
+        uuid: aa7dbadc-fdc4-483c-a143-9c804c630c41
+        units:
+        -   title: Unit Tests
+            uuid: bf89620f-7be4-4a32-bc32-e92d4dd48b93
+            lessons:
+            -   title: Location Trivia - Tests
+                uuid: af9638d7-969d-4c6a-b14a-e4ba67334d15
+                contents:
+                -   title: Location Trivia Tests
+                    source: https://github.com/learn-co-curriculum/locationTrivia-Tests
+                    uuid: 5b4c004a-ee46-4cdc-8eb7-7b20bee9b2a2
+            -   title: Stale Indirect
+                uuid: b5a18dc1-9cbd-4843-980f-4b40c9aaeb9e
+                contents:
+                -   title: Stale Indirect
+                    source: https://github.com/learn-co-curriculum/stale-indirect
+                    uuid: 49d261b3-0837-418e-a495-3ff0e75a7f73
