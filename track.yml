@@ -537,7 +537,7 @@ track:
                 -   title: Hella Cells
                     source: https://github.com/learn-co-curriculum/hella-cells
                     uuid: ca5b9ddb-e621-4617-9e99-1fb391b8f794
-            -   title: Tableviews and objects
+            -   title: Location Trivia - Tableviews
                 uuid: 23b19d1a-7f43-4702-a049-ad7bb636caad
                 contents:
                 -   title: Location Trivia Table Views
