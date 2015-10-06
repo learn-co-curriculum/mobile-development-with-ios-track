@@ -549,7 +549,7 @@ track:
                 -   title: Prime Time
                     source: https://github.com/learn-co-curriculum/prime-time
                     uuid: bf8ba846-c0f0-48e7-8bdf-998483e5e337
-            -   title: JukeBoxes With Tableviews
+            -   title: Jukebox Tableviews
                 uuid: 55e0c61c-b1c2-4bc2-8acb-21cdbd0618c3
                 contents:
                 -   title: Jukebox Table Views
