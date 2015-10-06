@@ -555,7 +555,7 @@ track:
                 -   title: Jukebox Table Views
                     source: https://github.com/learn-co-curriculum/jukebox-tableViews
                     uuid: a4754974-1e9a-49a9-a0ed-55068b85a836
-            -   title: Static Cells
+            -   title: Sounds Table (Static Cells)
                 uuid: f80602e1-f88d-4026-92c1-26aeac16c200
                 contents:
                 -   title: Sounds Table
