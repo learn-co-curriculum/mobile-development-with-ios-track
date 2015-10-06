@@ -549,6 +549,12 @@ track:
                 -   title: Prime Time
                     source: https://github.com/learn-co-curriculum/prime-time
                     uuid: bf8ba846-c0f0-48e7-8bdf-998483e5e337
+            -   title: "(advanced) Tableview Sections"
+                uuid: 899e7389-21dc-45ac-9e38-8acdf7851a9e
+                contents:
+                -   title: Ios Tableview Sections
+                    source: https://github.com/learn-co-curriculum/ios-tableview-sections
+                    uuid: fb0e8e8c-a9b2-42c2-bd40-2e111d41fe97
             -   title: Jukebox Tableviews
                 uuid: 55e0c61c-b1c2-4bc2-8acb-21cdbd0618c3
                 contents:
@@ -567,12 +573,6 @@ track:
                 -   title: Facepad
                     source: https://github.com/learn-co-curriculum/facepad
                     uuid: 5189e0b9-cc42-4f39-8520-1822093491af
-            -   title: "(advanced) Tableview Sections"
-                uuid: 899e7389-21dc-45ac-9e38-8acdf7851a9e
-                contents:
-                -   title: Ios Tableview Sections
-                    source: https://github.com/learn-co-curriculum/ios-tableview-sections
-                    uuid: fb0e8e8c-a9b2-42c2-bd40-2e111d41fe97
     -   title: Writing Tests
         uuid: aa7dbadc-fdc4-483c-a143-9c804c630c41
         units:
