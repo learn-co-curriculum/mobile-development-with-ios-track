@@ -573,7 +573,7 @@ track:
                 -   title: Facepad
                     source: https://github.com/learn-co-curriculum/facepad
                     uuid: 5189e0b9-cc42-4f39-8520-1822093491af
-    -   title: Writing Tests
+    -   title: DEPRECATED Writing Tests
         uuid: aa7dbadc-fdc4-483c-a143-9c804c630c41
         units:
         -   title: Unit Tests
