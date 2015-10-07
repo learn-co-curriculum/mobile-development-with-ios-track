@@ -516,7 +516,7 @@ track:
         -   title: Multiple VCs with Nav Controllers
             uuid: e6a0fa9b-25be-43cf-bf8f-feb6122c8c0f
             lessons:
-            -   title: Intro
+            -   title: Navigation Controllers
                 uuid: 8f521952-abd6-49a3-8b24-244b8889beb9
                 contents:
                 -   title: Objc Navigation Controllers
