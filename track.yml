@@ -516,6 +516,12 @@ track:
         -   title: Multiple VCs with Nav Controllers
             uuid: e6a0fa9b-25be-43cf-bf8f-feb6122c8c0f
             lessons:
+            -   title: Gorge of Eternal Peril
+                uuid: aa40ff6d-0435-49ae-9da8-d94d67eeaa9d
+                contents:
+                -   title: Objc Gorge Of Eternal Peril
+                    source: https://github.com/learn-co-curriculum/objc-gorge-of-eternal-peril
+                    uuid: ae28c407-5128-4a90-8e32-d321c3de5156
             -   title: Navigation Controllers
                 uuid: 8f521952-abd6-49a3-8b24-244b8889beb9
                 contents:
@@ -528,12 +534,6 @@ track:
                 -   title: Tasks Today
                     source: https://github.com/learn-co-curriculum/tasks-Today
                     uuid: 18f17496-ced6-4767-a07f-e401f531135b
-            -   title: Gorge of Eternal Peril
-                uuid: aa40ff6d-0435-49ae-9da8-d94d67eeaa9d
-                contents:
-                -   title: Objc Gorge Of Eternal Peril
-                    source: https://github.com/learn-co-curriculum/objc-gorge-of-eternal-peril
-                    uuid: ae28c407-5128-4a90-8e32-d321c3de5156
         -   title: UITableViews
             uuid: aca55e0e-46b3-4649-b36b-16b22843d724
             lessons:
