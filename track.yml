@@ -516,12 +516,6 @@ track:
         -   title: Multiple VCs with Nav Controllers
             uuid: e6a0fa9b-25be-43cf-bf8f-feb6122c8c0f
             lessons:
-            -   title: 'Xcode: Simulated Metric Size'
-                uuid: 13af68f9-049a-4626-936d-a45a6b9009db
-                contents:
-                -   title: Reading Ios Xcode Simulated Metric Size
-                    source: https://github.com/learn-co-curriculum/reading-ios-xcode-simulated-metric-size
-                    uuid: ef90e450-4382-4563-b236-f59279aa62b9
             -   title: Intro
                 uuid: 8f521952-abd6-49a3-8b24-244b8889beb9
                 contents:
