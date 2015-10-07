@@ -507,6 +507,12 @@ track:
                 -   title: Oop Cards Views
                     source: https://github.com/learn-co-curriculum/OOP-Cards-Views
                     uuid: 10efbe1a-d487-4215-bd1e-9e5073f43138
+            -   title: 'Xcode: Simulated Metric Size'
+                uuid: 3bd70548-aa5d-4535-9516-c8583ea19a5a
+                contents:
+                -   title: Reading Ios Xcode Simulated Metric Size
+                    source: https://github.com/learn-co-curriculum/reading-ios-xcode-simulated-metric-size
+                    uuid: d13a4f95-1c21-4fb7-9c6e-ea0bef34fb4c
         -   title: Multiple VCs with Nav Controllers
             uuid: e6a0fa9b-25be-43cf-bf8f-feb6122c8c0f
             lessons:
