@@ -549,7 +549,7 @@ track:
                 -   title: Prime Time
                     source: https://github.com/learn-co-curriculum/prime-time
                     uuid: bf8ba846-c0f0-48e7-8bdf-998483e5e337
-            -   title: "(advanced) Tableview Sections"
+            -   title: Tableview Sections
                 uuid: 899e7389-21dc-45ac-9e38-8acdf7851a9e
                 contents:
                 -   title: Ios Tableview Sections
