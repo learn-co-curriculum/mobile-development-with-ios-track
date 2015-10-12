@@ -612,7 +612,7 @@ track:
                 -   title: Location Trivia Data Store Relationships
                     source: https://github.com/learn-co-curriculum/locationTrivia-DataStoreRelationships
                     uuid: f51835b2-5794-4aee-9e38-4510ee98bc2a
-        -   title: Persisting Data
+        -   title: Core Data
             uuid: 0ab3337a-9796-4df6-92c8-59912b71011b
             lessons:
             -   title: Slap Chat
