@@ -777,6 +777,12 @@ track:
                 -   title: Pickin Fruit
                     source: https://github.com/learn-co-curriculum/pickin-fruit
                     uuid: 8f1caffd-808b-472d-9748-d77daeb267a9
+            -   title: Jukebox TableViews
+                uuid: 268f6117-183a-42b1-9f65-9f8dd49f580f
+                contents:
+                -   title: Jukebox Table Views
+                    source: https://github.com/learn-co-curriculum/jukebox-tableViews
+                    uuid: 30e68f56-5c0d-414f-b264-3562279aafa5
         -   title: Blocks
             uuid: 951d880e-2108-43e1-acea-49b31e529c51
             lessons:
