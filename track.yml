@@ -567,6 +567,33 @@ track:
                 -   title: Facepad
                     source: https://github.com/learn-co-curriculum/facepad
                     uuid: 5189e0b9-cc42-4f39-8520-1822093491af
+        -   title: Autolayout
+            uuid: add5ceb3-4389-4963-9eb9-e139e59a319c
+            lessons:
+            -   title: Autolayout Textview (Long Form)
+                uuid: 5cd9a226-66b1-4ff8-bffe-9ca554fbc7f0
+                contents:
+                -   title: Autolayout Textview
+                    source: https://github.com/learn-co-curriculum/autolayout-textview
+                    uuid: ac9eb63f-46ec-4275-9a04-5cb249731be5
+            -   title: Horizontal Profile (Rotation)
+                uuid: 5c953bf5-ee85-42a1-bcc1-7bef96c6b2ce
+                contents:
+                -   title: Horizontal Profile
+                    source: https://github.com/learn-co-curriculum/horizontal-profile
+                    uuid: 95072c4d-e0e2-4b44-a383-8f6a9fe6606e
+            -   title: Final Countdown (Using IB)
+                uuid: b7f49e6b-15b5-4d92-ba1b-d6d87223478a
+                contents:
+                -   title: The Final Countdown
+                    source: https://github.com/learn-co-curriculum/theFinalCountdown
+                    uuid: c72c021c-2b0b-44af-af6a-e530c7f0ab2b
+            -   title: Autolayout Calc (VFL)
+                uuid: c282ab69-6e2c-4a07-a2ed-6d5ebbafa3fe
+                contents:
+                -   title: Autolayout Calc
+                    source: https://github.com/learn-co-curriculum/autolayout-calc
+                    uuid: 555f0a88-e4b4-4164-8b08-d31f5b1cee63
     -   title: Handling Data
         uuid: 662f274b-9499-48a9-937b-f1bef1285f60
         units:
