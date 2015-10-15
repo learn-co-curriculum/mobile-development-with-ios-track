@@ -600,12 +600,6 @@ track:
         -   title: Singletons And Relationships
             uuid: 3f431f4b-267d-48d2-b90f-917def075a62
             lessons:
-            -   title: DEPRECATED Location Trivia - Data Store
-                uuid: 2819234b-e760-4147-ab67-e65716959f22
-                contents:
-                -   title: Location Trivia Data Store
-                    source: https://github.com/learn-co-curriculum/locationTrivia-dataStore
-                    uuid: 0ad1c084-5a7f-4b3e-865b-40a414ce583c
             -   title: Location Trivia - Data Store Relationships
                 uuid: 79103bc4-d986-4c77-bb22-2dd6cff5f6ca
                 contents:
