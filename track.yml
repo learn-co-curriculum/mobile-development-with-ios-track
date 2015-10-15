@@ -588,7 +588,7 @@ track:
                 -   title: The Final Countdown
                     source: https://github.com/learn-co-curriculum/theFinalCountdown
                     uuid: c72c021c-2b0b-44af-af6a-e530c7f0ab2b
-            -   title: Autolayout Calc (VFL)
+            -   title: Autolayout Calc (Stack Views)
                 uuid: c282ab69-6e2c-4a07-a2ed-6d5ebbafa3fe
                 contents:
                 -   title: Autolayout Calc
