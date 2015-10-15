@@ -570,7 +570,7 @@ track:
         -   title: Autolayout
             uuid: add5ceb3-4389-4963-9eb9-e139e59a319c
             lessons:
-            -   title: Autolayout Textview (Long Form)
+            -   title: Autolayout Textview (Layout Anchors)
                 uuid: 5cd9a226-66b1-4ff8-bffe-9ca554fbc7f0
                 contents:
                 -   title: Autolayout Textview
