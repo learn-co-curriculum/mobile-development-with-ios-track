@@ -708,9 +708,6 @@ track:
                 -   title: Objc Scroll Views
                     source: https://github.com/learn-co-curriculum/objc-ScrollViews
                     uuid: 9f501f6a-3e7c-4201-b911-9e46bf6da2ac
-    -   title: Advanced Views
-        uuid: 780032f1-f5ce-4eb5-b943-2b5c14a80fdc
-        units: []
     -   title: Communication Patterns
         uuid: 87ddcef9-e82a-427f-9ea9-2d817aed0d68
         units:
