@@ -678,12 +678,6 @@ track:
         -   title: MOVED AutoLayout
             uuid: fa980ce7-4b5e-4013-bcdc-924267e72c8d
             lessons:
-            -   title: Long Form AutoLayout
-                uuid: c45c3409-8bdc-4951-9dfd-7772a094c66a
-                contents:
-                -   title: Autolayout Textview
-                    source: https://github.com/learn-co-curriculum/autolayout-textview
-                    uuid: 9ec789d8-5e7f-4ce0-9057-6fc73532f41c
             -   title: 'ADV: Handling Rotation'
                 uuid: fa48e7d6-ecf6-4888-986f-53694801baf6
                 contents:
