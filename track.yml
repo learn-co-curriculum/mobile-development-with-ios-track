@@ -720,9 +720,6 @@ track:
                 -   title: Captain Morgans Notifications
                     source: https://github.com/learn-co-curriculum/captain-morgans-notifications
                     uuid: d990de08-0875-4796-bab7-2a9db687a680
-        -   title: KVO
-            uuid: 93914185-126d-4de2-9726-51b160c037ff
-            lessons: []
         -   title: Delegation
             uuid: 61173e76-6914-4154-835c-24d43e5fee1d
             lessons:
