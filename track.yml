@@ -714,9 +714,6 @@ track:
         -   title: UIScrollView
             uuid: 9e365c97-5ed2-4176-9ed3-7299785550c3
             lessons: []
-        -   title: UICollectionView
-            uuid: a151bb06-32a0-4097-9cdb-f2ce355d5fd6
-            lessons: []
     -   title: Communication Patterns
         uuid: 87ddcef9-e82a-427f-9ea9-2d817aed0d68
         units:
