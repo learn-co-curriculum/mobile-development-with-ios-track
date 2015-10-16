@@ -672,7 +672,7 @@ track:
                 -   title: Objc Four Square
                     source: https://github.com/learn-co-curriculum/objc-FourSquare
                     uuid: eb1e7efc-84b4-4fa1-aaf4-8651abcab47f
-    -   title: Laying Out and Moving Views
+    -   title: Advanced Views
         uuid: 77e3a9e5-f13d-4628-9a26-4b3150359ec3
         units:
         -   title: Animations
