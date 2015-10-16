@@ -609,12 +609,6 @@ track:
         -   title: Core Data
             uuid: 0ab3337a-9796-4df6-92c8-59912b71011b
             lessons:
-            -   title: DEPRECATED Slap Chat
-                uuid: d62c9300-24bb-4e35-baaa-fad66a996379
-                contents:
-                -   title: Objc Slap Chat
-                    source: https://github.com/learn-co-curriculum/objc-SlapChat
-                    uuid: d7999b7c-dcd3-4a01-acc7-c355c6dae330
             -   title: Search and Shout
                 uuid: 6e81ba70-4d82-4d89-8ee0-feaec90ff648
                 contents:
