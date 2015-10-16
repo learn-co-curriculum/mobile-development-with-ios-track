@@ -639,7 +639,7 @@ track:
                 -   title: Slapchat Fetched
                     source: https://github.com/learn-co-curriculum/slapchat-fetched
                     uuid: 692a642c-4b50-45bd-a844-024a7e68ba27
-    -   title: Using Third Party Libraries
+    -   title: Third Party Libraries
         uuid: 37b02114-dec6-46b8-a6a6-0a3730e70107
         units:
         -   title: CocoaPods
