@@ -675,9 +675,6 @@ track:
     -   title: Laying Out and Moving Views
         uuid: 77e3a9e5-f13d-4628-9a26-4b3150359ec3
         units:
-        -   title: MOVED AutoLayout
-            uuid: fa980ce7-4b5e-4013-bcdc-924267e72c8d
-            lessons: []
         -   title: Animations
             uuid: a361df43-9099-4c05-b3ff-1540844be5ca
             lessons:
