@@ -678,12 +678,6 @@ track:
         -   title: MOVED AutoLayout
             uuid: fa980ce7-4b5e-4013-bcdc-924267e72c8d
             lessons:
-            -   title: Visual Format Language
-                uuid: 6c3cdec9-859a-4388-be91-91a2f82b4d04
-                contents:
-                -   title: Autolayout Calc
-                    source: https://github.com/learn-co-curriculum/autolayout-calc
-                    uuid: ba68da33-9044-43c5-a96f-ac444ba121b5
             -   title: Laying out from Interface Builder
                 uuid: 67c4b8c9-6665-486a-b3d3-d237b49654da
                 contents:
