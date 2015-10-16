@@ -716,13 +716,7 @@ track:
             lessons: []
         -   title: UICollectionView
             uuid: a151bb06-32a0-4097-9cdb-f2ce355d5fd6
-            lessons:
-            -   title: Intro
-                uuid: 07527fc1-4f28-48b5-9b0f-6243f75cb12d
-                contents:
-                -   title: Muscle Collection
-                    source: https://github.com/learn-co-curriculum/MuscleCollection
-                    uuid: 5dd8c1aa-3631-4c43-b6fe-680a6d4f7332
+            lessons: []
         -   title: Multiple Storyboards
             uuid: 8e715b9d-53a3-4957-944c-004e7977ff69
             lessons:
