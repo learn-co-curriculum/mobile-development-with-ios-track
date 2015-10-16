@@ -677,13 +677,7 @@ track:
         units:
         -   title: MOVED AutoLayout
             uuid: fa980ce7-4b5e-4013-bcdc-924267e72c8d
-            lessons:
-            -   title: Laying out from Interface Builder
-                uuid: 67c4b8c9-6665-486a-b3d3-d237b49654da
-                contents:
-                -   title: The Final Countdown
-                    source: https://github.com/learn-co-curriculum/theFinalCountdown
-                    uuid: 6ba239de-b0c9-49ab-96b2-7102764b953d
+            lessons: []
         -   title: Animations
             uuid: a361df43-9099-4c05-b3ff-1540844be5ca
             lessons:
