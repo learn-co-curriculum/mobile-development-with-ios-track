@@ -726,6 +726,9 @@ track:
                 -   title: Zen Garden
                     source: https://github.com/learn-co-curriculum/zenGarden
                     uuid: 5cfa277e-c9d0-4fce-8075-1e501741e910
+        -   title: UIScrollView
+            uuid: 04d3e7ee-8bd5-4359-9d1c-9465ce0b02af
+            lessons: []
     -   title: Advanced Views
         uuid: 780032f1-f5ce-4eb5-b943-2b5c14a80fdc
         units:
