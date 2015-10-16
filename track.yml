@@ -713,13 +713,7 @@ track:
         units:
         -   title: UIScrollView
             uuid: 9e365c97-5ed2-4176-9ed3-7299785550c3
-            lessons:
-            -   title: Basics
-                uuid: 70b6251b-4345-4e58-9da7-dd36534815eb
-                contents:
-                -   title: Objc Scroll Views
-                    source: https://github.com/learn-co-curriculum/objc-ScrollViews
-                    uuid: 11cc3b63-4c0c-43d2-85d0-402819f63b67
+            lessons: []
         -   title: UICollectionView
             uuid: a151bb06-32a0-4097-9cdb-f2ce355d5fd6
             lessons:
