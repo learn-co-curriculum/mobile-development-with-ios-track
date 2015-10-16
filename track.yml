@@ -719,13 +719,7 @@ track:
             lessons: []
         -   title: Multiple Storyboards
             uuid: 8e715b9d-53a3-4957-944c-004e7977ff69
-            lessons:
-            -   title: Basics
-                uuid: d2ccaf1c-3b7e-4438-ba79-757b5e71f65a
-                contents:
-                -   title: Github Storyboards
-                    source: https://github.com/learn-co-curriculum/github-storyboards
-                    uuid: 656571b9-6445-4486-959f-2db3d4a009eb
+            lessons: []
     -   title: Communication Patterns
         uuid: 87ddcef9-e82a-427f-9ea9-2d817aed0d68
         units:
