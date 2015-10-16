@@ -678,12 +678,6 @@ track:
         -   title: MOVED AutoLayout
             uuid: fa980ce7-4b5e-4013-bcdc-924267e72c8d
             lessons:
-            -   title: 'ADV: Handling Rotation'
-                uuid: fa48e7d6-ecf6-4888-986f-53694801baf6
-                contents:
-                -   title: Horizontal Profile
-                    source: https://github.com/learn-co-curriculum/horizontal-profile
-                    uuid: 9d3f88a3-6a37-4eeb-999b-d60e59f8cc2a
             -   title: Visual Format Language
                 uuid: 6c3cdec9-859a-4388-be91-91a2f82b4d04
                 contents:
