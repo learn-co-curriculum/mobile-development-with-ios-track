@@ -705,7 +705,7 @@ track:
         -   title: Animations
             uuid: a361df43-9099-4c05-b3ff-1540844be5ca
             lessons:
-            -   title: Basics
+            -   title: Animated Validator
                 uuid: 809ffcb2-d4db-4578-ada7-12ae86c79676
                 contents:
                 -   title: Animated Validator
