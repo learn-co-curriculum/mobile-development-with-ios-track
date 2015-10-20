@@ -576,7 +576,7 @@ track:
                 -   title: Autolayout Textview
                     source: https://github.com/learn-co-curriculum/autolayout-textview
                     uuid: ac9eb63f-46ec-4275-9a04-5cb249731be5
-            -   title: Horizontal Profile (Rotation)
+            -   title: "(advanced) Horizontal Profile (Rotation)"
                 uuid: 5c953bf5-ee85-42a1-bcc1-7bef96c6b2ce
                 contents:
                 -   title: Horizontal Profile
