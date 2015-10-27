@@ -756,18 +756,18 @@ track:
                 -   title: Ios Location Trivia Delegate
                     source: https://github.com/learn-co-curriculum/ios-location-trivia-delegate
                     uuid: 52fd4c85-89a7-4d55-82bb-51a6eda26a1b
-            -   title: REDUNDANT Pushup Protocols
-                uuid: 8caa97fc-d690-4634-99bb-7c870d5b7949
-                contents:
-                -   title: Objc Pushup Protocols
-                    source: https://github.com/learn-co-curriculum/objc-PushupProtocols
-                    uuid: dd725ede-e6df-4487-91cb-53d7295e4e2c
             -   title: Jukebox TableViews
                 uuid: 268f6117-183a-42b1-9f65-9f8dd49f580f
                 contents:
                 -   title: Jukebox Table Views
                     source: https://github.com/learn-co-curriculum/jukebox-tableViews
                     uuid: 30e68f56-5c0d-414f-b264-3562279aafa5
+            -   title: REDUNDANT Pushup Protocols
+                uuid: 8caa97fc-d690-4634-99bb-7c870d5b7949
+                contents:
+                -   title: Objc Pushup Protocols
+                    source: https://github.com/learn-co-curriculum/objc-PushupProtocols
+                    uuid: dd725ede-e6df-4487-91cb-53d7295e4e2c
     -   title: Talking to APIs
         uuid: 3c9f0971-e865-4507-bd77-e28fcb9ee132
         units:
