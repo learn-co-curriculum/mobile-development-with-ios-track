@@ -762,6 +762,12 @@ track:
                 -   title: Jukebox Table Views
                     source: https://github.com/learn-co-curriculum/jukebox-tableViews
                     uuid: 30e68f56-5c0d-414f-b264-3562279aafa5
+            -   title: Location Trivia - Delegate
+                uuid: 7722af14-32e7-4663-853b-4b3d8a8bec5e
+                contents:
+                -   title: Ios Location Trivia Delegate
+                    source: https://github.com/learn-co-curriculum/ios-location-trivia-delegate
+                    uuid: 52fd4c85-89a7-4d55-82bb-51a6eda26a1b
     -   title: Talking to APIs
         uuid: 3c9f0971-e865-4507-bd77-e28fcb9ee132
         units:
