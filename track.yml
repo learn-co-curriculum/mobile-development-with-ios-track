@@ -720,12 +720,6 @@ track:
                 -   title: Array Blocks
                     source: https://github.com/learn-co-curriculum/ArrayBlocks
                     uuid: f13e5be0-6453-4590-97ce-e3b94fbc1cc5
-            -   title: Practice
-                uuid: d6caf108-8f7a-4de9-98dd-e058f9f3900f
-                contents:
-                -   title: Cash Money Blocks
-                    source: https://github.com/learn-co-curriculum/CashMoneyBlocks
-                    uuid: 8314c8ad-c816-4abc-97e4-3398cb8828db
             -   title: Replacing Delegation
                 uuid: 501086a6-888c-48ea-ac46-734d56fc9795
                 contents:
