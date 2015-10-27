@@ -744,7 +744,7 @@ track:
                 -   title: Objc Pushup Protocols
                     source: https://github.com/learn-co-curriculum/objc-PushupProtocols
                     uuid: dd725ede-e6df-4487-91cb-53d7295e4e2c
-            -   title: Intro
+            -   title: Validated Signup
                 uuid: d72512ee-2ae4-42ad-9d9a-e9033a8dc399
                 contents:
                 -   title: Validated Signup
