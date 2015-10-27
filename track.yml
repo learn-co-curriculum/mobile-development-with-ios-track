@@ -711,6 +711,27 @@ track:
     -   title: Communication Patterns
         uuid: 87ddcef9-e82a-427f-9ea9-2d817aed0d68
         units:
+        -   title: Blocks
+            uuid: 951d880e-2108-43e1-acea-49b31e529c51
+            lessons:
+            -   title: Intro
+                uuid: b6980119-c328-4533-8f32-35e55507266a
+                contents:
+                -   title: Array Blocks
+                    source: https://github.com/learn-co-curriculum/ArrayBlocks
+                    uuid: f13e5be0-6453-4590-97ce-e3b94fbc1cc5
+            -   title: Practice
+                uuid: d6caf108-8f7a-4de9-98dd-e058f9f3900f
+                contents:
+                -   title: Cash Money Blocks
+                    source: https://github.com/learn-co-curriculum/CashMoneyBlocks
+                    uuid: 8314c8ad-c816-4abc-97e4-3398cb8828db
+            -   title: Replacing Delegation
+                uuid: 501086a6-888c-48ea-ac46-734d56fc9795
+                contents:
+                -   title: Objc Blocks
+                    source: https://github.com/learn-co-curriculum/objc-Blocks
+                    uuid: 7989fd12-f99c-4cf0-94d4-8cb6af80f233
         -   title: NSNotificationCenter
             uuid: 3a4b8e7b-3c1a-472f-84fe-6117603c49fa
             lessons:
@@ -747,27 +768,6 @@ track:
                 -   title: Jukebox Table Views
                     source: https://github.com/learn-co-curriculum/jukebox-tableViews
                     uuid: 30e68f56-5c0d-414f-b264-3562279aafa5
-        -   title: Blocks
-            uuid: 951d880e-2108-43e1-acea-49b31e529c51
-            lessons:
-            -   title: Intro
-                uuid: b6980119-c328-4533-8f32-35e55507266a
-                contents:
-                -   title: Array Blocks
-                    source: https://github.com/learn-co-curriculum/ArrayBlocks
-                    uuid: f13e5be0-6453-4590-97ce-e3b94fbc1cc5
-            -   title: Practice
-                uuid: d6caf108-8f7a-4de9-98dd-e058f9f3900f
-                contents:
-                -   title: Cash Money Blocks
-                    source: https://github.com/learn-co-curriculum/CashMoneyBlocks
-                    uuid: 8314c8ad-c816-4abc-97e4-3398cb8828db
-            -   title: Replacing Delegation
-                uuid: 501086a6-888c-48ea-ac46-734d56fc9795
-                contents:
-                -   title: Objc Blocks
-                    source: https://github.com/learn-co-curriculum/objc-Blocks
-                    uuid: 7989fd12-f99c-4cf0-94d4-8cb6af80f233
     -   title: Talking to APIs
         uuid: 3c9f0971-e865-4507-bd77-e28fcb9ee132
         units:
