@@ -714,7 +714,7 @@ track:
         -   title: Blocks
             uuid: 951d880e-2108-43e1-acea-49b31e529c51
             lessons:
-            -   title: Intro
+            -   title: Array Blocks
                 uuid: b6980119-c328-4533-8f32-35e55507266a
                 contents:
                 -   title: Array Blocks
