@@ -720,6 +720,12 @@ track:
                 -   title: Captain Morgans Notifications
                     source: https://github.com/learn-co-curriculum/captain-morgans-notifications
                     uuid: d990de08-0875-4796-bab7-2a9db687a680
+            -   title: Keyboard Cat
+                uuid: 393de6f4-2031-48c0-9892-035f519914fc
+                contents:
+                -   title: Objc Keyboard Cat
+                    source: https://github.com/learn-co-curriculum/objc-keyboard-cat
+                    uuid: aabb0d7f-8b46-43cc-82d4-f1c63e30ce97
         -   title: Delegation
             uuid: 61173e76-6914-4154-835c-24d43e5fee1d
             lessons:
