@@ -795,7 +795,7 @@ track:
         -   title: AFNetworking
             uuid: 9de5d913-687a-436f-a415-7824bf6a9023
             lessons:
-            -   title: NSURLSession to AFNetworking
+            -   title: GitHub Repo Search (NSURLSession to AFNetworking)
                 uuid: 85402f26-9179-435a-90dc-b7e3bbaf459b
                 contents:
                 -   title: Github Repo Search
