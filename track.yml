@@ -855,7 +855,7 @@ track:
                 -   title: Pour Cast
                     source: https://github.com/learn-co-curriculum/pour-cast
                     uuid: f984a6d5-a521-4ce7-a4cc-d4b6c4aebabb
-        -   title: 100% Code
+        -   title: Views In Code
             uuid: 8f62a507-2d48-4865-b8b7-ba2110ef0338
             lessons:
             -   title: Views in Code
