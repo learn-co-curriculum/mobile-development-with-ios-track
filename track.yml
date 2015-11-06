@@ -659,13 +659,7 @@ track:
                     uuid: dfaa6b20-b0ca-426f-b850-5823be9d33d3
         -   title: CocoaPods and The Internet
             uuid: f59eb51c-a998-4fc4-b7bc-5bf761647a8c
-            lessons:
-            -   title: Foursquare
-                uuid: 577ff013-d8a7-46b8-837e-c2cfbd1b70d2
-                contents:
-                -   title: Objc Four Square
-                    source: https://github.com/learn-co-curriculum/objc-FourSquare
-                    uuid: eb1e7efc-84b4-4fa1-aaf4-8651abcab47f
+            lessons: []
     -   title: Advanced Views
         uuid: 77e3a9e5-f13d-4628-9a26-4b3150359ec3
         units:
