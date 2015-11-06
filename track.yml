@@ -810,7 +810,7 @@ track:
         -   title: CRUD
             uuid: e43079eb-73b0-4e91-be0b-6953b738a7be
             lessons:
-            -   title: Basics
+            -   title: Location Trivia - API
                 uuid: c2acee3e-17f1-4a9b-924f-24ed7d2f2b5b
                 contents:
                 -   title: Location Trivia Api
