@@ -816,6 +816,21 @@ track:
                 -   title: Location Trivia Api
                     source: https://github.com/learn-co-curriculum/locationTrivia-API
                     uuid: 6958c413-7f46-411a-97a1-27c99eccf9dc
+        -   title: CocoaPods and The Internet
+            uuid: 3a5d7f4f-fb5f-45bb-bdd4-d24c664e6fb8
+            lessons:
+            -   title: Gunna Rain
+                uuid: 2bcbfac8-be89-4a6a-a0e1-8f1919f8996c
+                contents:
+                -   title: Gunna Rain
+                    source: https://github.com/learn-co-curriculum/gunna-rain
+                    uuid: 683745e6-3b35-485b-826b-6bc884edd42e
+            -   title: Foursquare
+                uuid: 05a15dcb-576d-4ffc-9683-cca7296696da
+                contents:
+                -   title: Objc Four Square
+                    source: https://github.com/learn-co-curriculum/objc-FourSquare
+                    uuid: eb1e7efc-84b4-4fa1-aaf4-8651abcab47f
     -   title: Multi-Threading
         uuid: 3cedb750-bc62-497a-af5c-7e9476da5448
         units:
