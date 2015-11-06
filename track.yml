@@ -858,7 +858,7 @@ track:
         -   title: 100% Code
             uuid: 8f62a507-2d48-4865-b8b7-ba2110ef0338
             lessons:
-            -   title: Intro
+            -   title: Views in Code
                 uuid: bd4701fa-844f-4873-a668-3790dc0aedcd
                 contents:
                 -   title: Objc Views In Code
