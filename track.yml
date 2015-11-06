@@ -786,7 +786,7 @@ track:
                 -   title: Tweet Sentiment
                     source: https://github.com/learn-co-curriculum/tweet-sentiment
                     uuid: 7cb19649-5cd6-4171-ac7c-72018f211c06
-            -   title: POSTing
+            -   title: GitHub Repo Starring (POST)
                 uuid: 60fdb779-4a3d-4c54-94f7-346ca8cc4442
                 contents:
                 -   title: Github Repo Starring
