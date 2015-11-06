@@ -807,15 +807,6 @@ track:
                 -   title: Github Login
                     source: https://github.com/learn-co-curriculum/github-login
                     uuid: f97ac385-9504-4df7-aac1-91299422e77b
-        -   title: CRUD
-            uuid: e43079eb-73b0-4e91-be0b-6953b738a7be
-            lessons:
-            -   title: Location Trivia - API
-                uuid: c2acee3e-17f1-4a9b-924f-24ed7d2f2b5b
-                contents:
-                -   title: Location Trivia Api
-                    source: https://github.com/learn-co-curriculum/locationTrivia-API
-                    uuid: 6958c413-7f46-411a-97a1-27c99eccf9dc
         -   title: CocoaPods and The Internet
             uuid: 3a5d7f4f-fb5f-45bb-bdd4-d24c664e6fb8
             lessons:
@@ -831,6 +822,15 @@ track:
                 -   title: Objc Four Square
                     source: https://github.com/learn-co-curriculum/objc-FourSquare
                     uuid: eb1e7efc-84b4-4fa1-aaf4-8651abcab47f
+        -   title: CRUD
+            uuid: e43079eb-73b0-4e91-be0b-6953b738a7be
+            lessons:
+            -   title: Location Trivia - API
+                uuid: c2acee3e-17f1-4a9b-924f-24ed7d2f2b5b
+                contents:
+                -   title: Location Trivia Api
+                    source: https://github.com/learn-co-curriculum/locationTrivia-API
+                    uuid: 6958c413-7f46-411a-97a1-27c99eccf9dc
     -   title: Multi-Threading
         uuid: 3cedb750-bc62-497a-af5c-7e9476da5448
         units:
