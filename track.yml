@@ -780,7 +780,7 @@ track:
                 -   title: Github Repo List
                     source: https://github.com/learn-co-curriculum/github-repo-list
                     uuid: b0705fcd-dfc3-482e-84f9-f53444d8b3de
-            -   title: 'ADV: Chaining Requests'
+            -   title: "(advanced) Tweet Sentiment (Chaining Requests)"
                 uuid: 9f63b7cf-a2bf-481e-9dbb-d703e4095a32
                 contents:
                 -   title: Tweet Sentiment
