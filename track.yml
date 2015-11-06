@@ -801,7 +801,7 @@ track:
                 -   title: Github Repo Search
                     source: https://github.com/learn-co-curriculum/github-repo-search
                     uuid: 1a226061-2af2-48fe-8a9b-a15028cb122c
-            -   title: OAuth
+            -   title: GitHub Login (OAuth)
                 uuid: 5f6e24f2-a748-4333-b76a-fd722d54ab0e
                 contents:
                 -   title: Github Login
