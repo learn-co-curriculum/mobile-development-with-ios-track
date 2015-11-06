@@ -864,7 +864,7 @@ track:
                 -   title: Objc Views In Code
                     source: https://github.com/learn-co-curriculum/objc-ViewsInCode
                     uuid: 642c4034-b3f3-4816-8246-a132a577865b
-    -   title: Drawing Views
+    -   title: EXTRA Drawing Views
         uuid: 847dbb34-179d-44a8-930a-fbab86666c74
         units:
         -   title: Core Graphics
