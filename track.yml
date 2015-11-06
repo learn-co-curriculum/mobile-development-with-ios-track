@@ -774,7 +774,7 @@ track:
         -   title: NSURLSession
             uuid: 80f45dbb-cdc1-4dcb-811d-3ced2b42131e
             lessons:
-            -   title: Reading
+            -   title: GitHub Repo List (GET)
                 uuid: a4d24c04-5bd9-4f0d-87f2-91ee5d357bed
                 contents:
                 -   title: Github Repo List
