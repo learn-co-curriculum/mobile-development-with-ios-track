@@ -660,12 +660,6 @@ track:
         -   title: CocoaPods and The Internet
             uuid: f59eb51c-a998-4fc4-b7bc-5bf761647a8c
             lessons:
-            -   title: Gunna Rain
-                uuid: 1c33cf69-53ea-4244-a9ae-abeebc75b12e
-                contents:
-                -   title: Gunna Rain
-                    source: https://github.com/learn-co-curriculum/gunna-rain
-                    uuid: 683745e6-3b35-485b-826b-6bc884edd42e
             -   title: Foursquare
                 uuid: 577ff013-d8a7-46b8-837e-c2cfbd1b70d2
                 contents:
