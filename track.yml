@@ -657,6 +657,21 @@ track:
                 -   title: Flashy Tableviews
                     source: https://github.com/learn-co-curriculum/flashy-tableviews
                     uuid: dfaa6b20-b0ca-426f-b850-5823be9d33d3
+        -   title: CocoaPods and The Internet
+            uuid: f59eb51c-a998-4fc4-b7bc-5bf761647a8c
+            lessons:
+            -   title: Gunna Rain
+                uuid: 1c33cf69-53ea-4244-a9ae-abeebc75b12e
+                contents:
+                -   title: Gunna Rain
+                    source: https://github.com/learn-co-curriculum/gunna-rain
+                    uuid: 683745e6-3b35-485b-826b-6bc884edd42e
+            -   title: Foursquare
+                uuid: 577ff013-d8a7-46b8-837e-c2cfbd1b70d2
+                contents:
+                -   title: Objc Four Square
+                    source: https://github.com/learn-co-curriculum/objc-FourSquare
+                    uuid: eb1e7efc-84b4-4fa1-aaf4-8651abcab47f
     -   title: Advanced Views
         uuid: 77e3a9e5-f13d-4628-9a26-4b3150359ec3
         units:
@@ -714,13 +729,7 @@ track:
         -   title: NSNotificationCenter
             uuid: 3a4b8e7b-3c1a-472f-84fe-6117603c49fa
             lessons:
-            -   title: Keyboard Cat
-                uuid: 393de6f4-2031-48c0-9892-035f519914fc
-                contents:
-                -   title: Objc Keyboard Cat
-                    source: https://github.com/learn-co-curriculum/objc-keyboard-cat
-                    uuid: aabb0d7f-8b46-43cc-82d4-f1c63e30ce97
-            -   title: "(redundant) Captain Morgans Notifications"
+            -   title: Captain Morgans Notifications
                 uuid: 20251e26-131e-4cad-aa8b-d927741a7045
                 contents:
                 -   title: Captain Morgans Notifications
@@ -765,19 +774,19 @@ track:
         -   title: NSURLSession
             uuid: 80f45dbb-cdc1-4dcb-811d-3ced2b42131e
             lessons:
-            -   title: GitHub Repo List (GET)
+            -   title: Reading
                 uuid: a4d24c04-5bd9-4f0d-87f2-91ee5d357bed
                 contents:
                 -   title: Github Repo List
                     source: https://github.com/learn-co-curriculum/github-repo-list
                     uuid: b0705fcd-dfc3-482e-84f9-f53444d8b3de
-            -   title: "(advanced) Tweet Sentiment (Chaining Requests)"
+            -   title: 'ADV: Chaining Requests'
                 uuid: 9f63b7cf-a2bf-481e-9dbb-d703e4095a32
                 contents:
                 -   title: Tweet Sentiment
                     source: https://github.com/learn-co-curriculum/tweet-sentiment
                     uuid: 7cb19649-5cd6-4171-ac7c-72018f211c06
-            -   title: GitHub Repo Starring (POST)
+            -   title: POSTing
                 uuid: 60fdb779-4a3d-4c54-94f7-346ca8cc4442
                 contents:
                 -   title: Github Repo Starring
@@ -786,37 +795,22 @@ track:
         -   title: AFNetworking
             uuid: 9de5d913-687a-436f-a415-7824bf6a9023
             lessons:
-            -   title: GitHub Repo Search (NSURLSession to AFNetworking)
+            -   title: NSURLSession to AFNetworking
                 uuid: 85402f26-9179-435a-90dc-b7e3bbaf459b
                 contents:
                 -   title: Github Repo Search
                     source: https://github.com/learn-co-curriculum/github-repo-search
                     uuid: 1a226061-2af2-48fe-8a9b-a15028cb122c
-            -   title: GitHub Login (OAuth)
+            -   title: OAuth
                 uuid: 5f6e24f2-a748-4333-b76a-fd722d54ab0e
                 contents:
                 -   title: Github Login
                     source: https://github.com/learn-co-curriculum/github-login
                     uuid: f97ac385-9504-4df7-aac1-91299422e77b
-        -   title: CocoaPods and The Internet
-            uuid: 3a5d7f4f-fb5f-45bb-bdd4-d24c664e6fb8
-            lessons:
-            -   title: Gunna Rain
-                uuid: 2bcbfac8-be89-4a6a-a0e1-8f1919f8996c
-                contents:
-                -   title: Gunna Rain
-                    source: https://github.com/learn-co-curriculum/gunna-rain
-                    uuid: 683745e6-3b35-485b-826b-6bc884edd42e
-            -   title: Foursquare
-                uuid: 05a15dcb-576d-4ffc-9683-cca7296696da
-                contents:
-                -   title: Objc Four Square
-                    source: https://github.com/learn-co-curriculum/objc-FourSquare
-                    uuid: eb1e7efc-84b4-4fa1-aaf4-8651abcab47f
         -   title: CRUD
             uuid: e43079eb-73b0-4e91-be0b-6953b738a7be
             lessons:
-            -   title: Location Trivia - API
+            -   title: Basics
                 uuid: c2acee3e-17f1-4a9b-924f-24ed7d2f2b5b
                 contents:
                 -   title: Location Trivia Api
@@ -855,22 +849,25 @@ track:
         -   title: XIBs In Storyboards
             uuid: d636db49-c012-4dfb-8333-7469ae492ee6
             lessons:
-            -   title: Pour Cast
+            -   title: Intro
                 uuid: 9e5098ff-d64f-4831-87a6-8c13439faf18
                 contents:
                 -   title: Pour Cast
                     source: https://github.com/learn-co-curriculum/pour-cast
                     uuid: f984a6d5-a521-4ce7-a4cc-d4b6c4aebabb
-        -   title: Views In Code
+        -   title: 100% Code
             uuid: 8f62a507-2d48-4865-b8b7-ba2110ef0338
             lessons:
-            -   title: Views in Code
+            -   title: Intro
                 uuid: bd4701fa-844f-4873-a668-3790dc0aedcd
                 contents:
                 -   title: Objc Views In Code
                     source: https://github.com/learn-co-curriculum/objc-ViewsInCode
                     uuid: 642c4034-b3f3-4816-8246-a132a577865b
-    -   title: EXTRA Drawing Views
+        -   title: XIBs/NIBs
+            uuid: 48580cb8-030f-4c62-8277-c55ec7476e5e
+            lessons: []
+    -   title: Drawing Views
         uuid: 847dbb34-179d-44a8-930a-fbab86666c74
         units:
         -   title: Core Graphics
@@ -888,7 +885,7 @@ track:
                 -   title: Objc Graph Plotter Part1
                     source: https://github.com/learn-co-curriculum/objc-GraphPlotter-Part1
                     uuid: e9ae2776-201a-4db6-af27-c78222ce13c5
-    -   title: OLD Swift
+    -   title: Swift
         uuid: f03f48b1-0e2c-4df1-be90-2946b2ed54d1
         units:
         -   title: Swift Basics
