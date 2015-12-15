@@ -594,6 +594,183 @@ track:
                 -   title: Autolayout Calc
                     source: https://github.com/learn-co-curriculum/autolayout-calc
                     uuid: 555f0a88-e4b4-4164-8b08-d31f5b1cee63
+    -   title: Swift From Objective-C
+        uuid: b27b14fa-ab39-48c6-a5c5-0675056b7862
+        units:
+        -   title: Swift Basics
+            uuid: 1aed2788-53a2-48f8-9094-979aa8933901
+            lessons:
+            -   title: Intro From Objective-C
+                uuid: 388f97a5-9441-4b63-80bd-52d9d2007a5b
+                contents:
+                -   title: Swift Intro From Objc
+                    source: https://github.com/learn-co-curriculum/swift-intro-from-objc
+                    uuid: ee814a0e-bc48-44ef-95d7-d42b75dee7e7
+            -   title: Constants And Variables
+                uuid: 5194a8c6-67fc-4337-8c5c-c372be36e8d9
+                contents:
+                -   title: Swift Constants And Variables
+                    source: https://github.com/learn-co-curriculum/swift-constants-and-variables
+                    uuid: ab6f1bdd-f81b-4f8f-a420-6af871496eeb
+            -   title: Playground
+                uuid: f9a905ab-79e8-4e72-8567-f5368f9b485d
+                contents:
+                -   title: Swift Playground
+                    source: https://github.com/learn-co-curriculum/swift-playground
+                    uuid: bd82a1a2-70b6-46dc-80f6-69ce38a61f30
+            -   title: Functions
+                uuid: 48b9726a-d100-4deb-acf2-589d9e85f521
+                contents:
+                -   title: Swift Functions
+                    source: https://github.com/learn-co-curriculum/swift-functions
+                    uuid: a75ca8af-562f-4c83-a987-3d95b437c431
+            -   title: Summary Function
+                uuid: b164d673-5bb1-4fd9-b2ae-98e39da807b1
+                contents:
+                -   title: Swift Summary Function
+                    source: https://github.com/learn-co-curriculum/swift-summary-function
+                    uuid: 2f39ad1d-983d-4354-8d6e-4a060851dcef
+            -   title: Unit Conversions
+                uuid: 675c99ad-4f8c-4831-aa9a-9172ad237001
+                contents:
+                -   title: Swift Unit Conversions
+                    source: https://github.com/learn-co-curriculum/swift-unit-conversions
+                    uuid: 780c4d97-056b-46a8-815e-e16f0c60807b
+            -   title: Control Flow
+                uuid: b6f3d265-ebf7-4b88-95cf-8de26db056fd
+                contents:
+                -   title: Swift Control Flow
+                    source: https://github.com/learn-co-curriculum/swift-control-flow
+                    uuid: d752073b-6dc7-4b9c-830d-787347aee5d8
+            -   title: Conjunction Function
+                uuid: 76f788b7-c772-419a-92bd-1825c69821c9
+                contents:
+                -   title: Swift Conjunction Function
+                    source: https://github.com/learn-co-curriculum/swift-conjunction-function
+                    uuid: 6d157f43-79ea-4477-a44d-16a04a782dbd
+            -   title: Deli Counter (swift)
+                uuid: 60a17485-165f-4a0b-86be-25e1f2ba9710
+                contents:
+                -   title: Swift Deli Counter
+                    source: https://github.com/learn-co-curriculum/swift-deli-counter
+                    uuid: f7f9b6e0-2579-4982-9ada-fe17e902532a
+        -   title: Types and Collections
+            uuid: 655d3bf3-2c52-4318-b5cd-be2a78ae1ffc
+            lessons:
+            -   title: Statically Typed
+                uuid: e05e7b7b-3d5d-44b2-a7d9-2245ff82c605
+                contents:
+                -   title: Swift Statically Typed
+                    source: https://github.com/learn-co-curriculum/swift-statically-typed
+                    uuid: 9a07a78e-f477-4320-9729-e1eb22f517d8
+            -   title: Optionals
+                uuid: fe43b27a-f8d3-476e-82af-5cee0b93de53
+                contents:
+                -   title: Swift Optionals Reading
+                    source: https://github.com/learn-co-curriculum/swift-optionals-reading
+                    uuid: 7b392e2c-f328-4bc6-924c-1a5f1a586a83
+            -   title: Deli Optionals
+                uuid: 3be766fd-1765-4cba-ae37-4e85acd741ca
+                contents:
+                -   title: Swift Deli Optionals
+                    source: https://github.com/learn-co-curriculum/swift-deli-optionals
+                    uuid: ac94ba58-bc3c-456e-abb3-c20924ac1e95
+            -   title: Collection Types
+                uuid: a33c559f-b995-4b33-a414-5e8268ff27a9
+                contents:
+                -   title: Swift Collection Types
+                    source: https://github.com/learn-co-curriculum/swift-collection-types
+                    uuid: 662ebcb0-7697-44d6-9765-70b93ef585d6
+            -   title: WWDC Badges Collections
+                uuid: b3e350bc-6646-4c13-9a49-5d00bd647ebf
+                contents:
+                -   title: Swift Wwdc Badges Collections
+                    source: https://github.com/learn-co-curriculum/swift-wwdc-badges-collections
+                    uuid: 59700835-10ee-4297-88b4-b7cefedf6785
+        -   title: Custom Classes
+            uuid: bc5ebcb9-4613-4fec-b52c-2e2fb3a6635a
+            lessons:
+            -   title: Creating A File
+                uuid: 126a4f28-592c-4e5e-9b43-9a3c2e40e74d
+                contents:
+                -   title: Swift Creating A File
+                    source: https://github.com/learn-co-curriculum/swift-creating-a-file
+                    uuid: 8cce2b8b-b40f-4658-9f9c-d33e34f52921
+            -   title: Base Class
+                uuid: 01c39ac0-1f3c-4bad-bd39-1649aded8160
+                contents:
+                -   title: Swift Base Class
+                    source: https://github.com/learn-co-curriculum/swift-base-class
+                    uuid: 154c1e9e-7cbb-4881-aa0f-4279f40a3567
+            -   title: Boat
+                uuid: 6fa7e21a-8f1a-4919-8510-5951211c5f7f
+                contents:
+                -   title: Swift Boat
+                    source: https://github.com/learn-co-curriculum/swift-boat
+                    uuid: 1f722284-4517-447d-bc87-068fa55238f9
+            -   title: Methods
+                uuid: 1722df13-544f-4526-bf3e-fdb35edf79f3
+                contents:
+                -   title: Swift Methods
+                    source: https://github.com/learn-co-curriculum/swift-methods
+                    uuid: 1fb0cbe7-e014-48a3-8f70-762a2b121eff
+            -   title: Shopping Cart
+                uuid: 018877a9-b39d-4e69-b86b-6740448e1c6a
+                contents:
+                -   title: Swift Shopping Cart
+                    source: https://github.com/learn-co-curriculum/swift-shopping-cart
+                    uuid: e4fc65aa-84c9-48ed-818d-71781a4b1501
+            -   title: Calculated Property
+                uuid: ffe1d340-522d-465a-b6d3-7ac9fe67e251
+                contents:
+                -   title: Swift Calculated Property
+                    source: https://github.com/learn-co-curriculum/swift-calculated-property
+                    uuid: 003db39c-56cf-40fb-ac4e-f1faae1b6982
+            -   title: People
+                uuid: 8725dce8-d3fc-4f60-973b-8943fdb0e750
+                contents:
+                -   title: Swift People
+                    source: https://github.com/learn-co-curriculum/swift-people
+                    uuid: 9f090583-d421-44f2-a032-32e3b82d8c62
+            -   title: Optional Property
+                uuid: a19e10b3-07ac-4421-9d79-d763559cc975
+                contents:
+                -   title: Swift Optional Property
+                    source: https://github.com/learn-co-curriculum/swift-optional-property
+                    uuid: 9e3ec433-d06b-4902-b9c5-22926b58ea50
+        -   title: Inheritance
+            uuid: 1b94846a-fbf1-429b-aee6-c47e0e01eeb1
+            lessons:
+            -   title: Inheritance Basics
+                uuid: e3a0a4b5-6e71-41ec-bba7-e0a98e5b0970
+                contents:
+                -   title: Swift Inheritance Basics
+                    source: https://github.com/learn-co-curriculum/swift-inheritance-basics
+                    uuid: 9324d624-561a-4695-8a12-88c35a61e05b
+            -   title: Subclass Initializers
+                uuid: a0040139-b3ff-4946-95ed-85f56c249797
+                contents:
+                -   title: Swift Subclass Initializers
+                    source: https://github.com/learn-co-curriculum/swift-subclass-initializers
+                    uuid: 8c9ac5e4-e209-496c-85d5-63894e441a69
+            -   title: Vehicle
+                uuid: 2a6e102e-f3cd-4603-8c51-ea57efa01717
+                contents:
+                -   title: Swift Vehicle
+                    source: https://github.com/learn-co-curriculum/swift-vehicle
+                    uuid: 0d959678-6fd8-41a2-8381-5fc94952076d
+            -   title: Blackjack
+                uuid: f8b00f24-ef50-4f0d-af49-319909459573
+                contents:
+                -   title: Swift Blackjack
+                    source: https://github.com/learn-co-curriculum/swift-blackjack
+                    uuid: 428af236-223f-4aa8-88cf-b690fe5ccda1
+            -   title: Blackjack Views
+                uuid: 1755b11c-2808-49c0-9d49-512a8c62ce48
+                contents:
+                -   title: Swift Blackjack Views
+                    source: https://github.com/learn-co-curriculum/swift-blackjack-views
+                    uuid: 8947812c-b286-4d1b-87c4-7922cc6232e5
     -   title: Handling Data
         uuid: 662f274b-9499-48a9-937b-f1bef1285f60
         units:
@@ -963,180 +1140,3 @@ track:
                 -   title: Stale Indirect
                     source: https://github.com/learn-co-curriculum/stale-indirect
                     uuid: 49d261b3-0837-418e-a495-3ff0e75a7f73
-    -   title: Swift From Objective-C
-        uuid: b27b14fa-ab39-48c6-a5c5-0675056b7862
-        units:
-        -   title: Swift Basics
-            uuid: 1aed2788-53a2-48f8-9094-979aa8933901
-            lessons:
-            -   title: Intro From Objective-C
-                uuid: 388f97a5-9441-4b63-80bd-52d9d2007a5b
-                contents:
-                -   title: Swift Intro From Objc
-                    source: https://github.com/learn-co-curriculum/swift-intro-from-objc
-                    uuid: ee814a0e-bc48-44ef-95d7-d42b75dee7e7
-            -   title: Constants And Variables
-                uuid: 5194a8c6-67fc-4337-8c5c-c372be36e8d9
-                contents:
-                -   title: Swift Constants And Variables
-                    source: https://github.com/learn-co-curriculum/swift-constants-and-variables
-                    uuid: ab6f1bdd-f81b-4f8f-a420-6af871496eeb
-            -   title: Playground
-                uuid: f9a905ab-79e8-4e72-8567-f5368f9b485d
-                contents:
-                -   title: Swift Playground
-                    source: https://github.com/learn-co-curriculum/swift-playground
-                    uuid: bd82a1a2-70b6-46dc-80f6-69ce38a61f30
-            -   title: Functions
-                uuid: 48b9726a-d100-4deb-acf2-589d9e85f521
-                contents:
-                -   title: Swift Functions
-                    source: https://github.com/learn-co-curriculum/swift-functions
-                    uuid: a75ca8af-562f-4c83-a987-3d95b437c431
-            -   title: Summary Function
-                uuid: b164d673-5bb1-4fd9-b2ae-98e39da807b1
-                contents:
-                -   title: Swift Summary Function
-                    source: https://github.com/learn-co-curriculum/swift-summary-function
-                    uuid: 2f39ad1d-983d-4354-8d6e-4a060851dcef
-            -   title: Unit Conversions
-                uuid: 675c99ad-4f8c-4831-aa9a-9172ad237001
-                contents:
-                -   title: Swift Unit Conversions
-                    source: https://github.com/learn-co-curriculum/swift-unit-conversions
-                    uuid: 780c4d97-056b-46a8-815e-e16f0c60807b
-            -   title: Control Flow
-                uuid: b6f3d265-ebf7-4b88-95cf-8de26db056fd
-                contents:
-                -   title: Swift Control Flow
-                    source: https://github.com/learn-co-curriculum/swift-control-flow
-                    uuid: d752073b-6dc7-4b9c-830d-787347aee5d8
-            -   title: Conjunction Function
-                uuid: 76f788b7-c772-419a-92bd-1825c69821c9
-                contents:
-                -   title: Swift Conjunction Function
-                    source: https://github.com/learn-co-curriculum/swift-conjunction-function
-                    uuid: 6d157f43-79ea-4477-a44d-16a04a782dbd
-            -   title: Deli Counter (swift)
-                uuid: 60a17485-165f-4a0b-86be-25e1f2ba9710
-                contents:
-                -   title: Swift Deli Counter
-                    source: https://github.com/learn-co-curriculum/swift-deli-counter
-                    uuid: f7f9b6e0-2579-4982-9ada-fe17e902532a
-        -   title: Types and Collections
-            uuid: 655d3bf3-2c52-4318-b5cd-be2a78ae1ffc
-            lessons:
-            -   title: Statically Typed
-                uuid: e05e7b7b-3d5d-44b2-a7d9-2245ff82c605
-                contents:
-                -   title: Swift Statically Typed
-                    source: https://github.com/learn-co-curriculum/swift-statically-typed
-                    uuid: 9a07a78e-f477-4320-9729-e1eb22f517d8
-            -   title: Optionals
-                uuid: fe43b27a-f8d3-476e-82af-5cee0b93de53
-                contents:
-                -   title: Swift Optionals Reading
-                    source: https://github.com/learn-co-curriculum/swift-optionals-reading
-                    uuid: 7b392e2c-f328-4bc6-924c-1a5f1a586a83
-            -   title: Deli Optionals
-                uuid: 3be766fd-1765-4cba-ae37-4e85acd741ca
-                contents:
-                -   title: Swift Deli Optionals
-                    source: https://github.com/learn-co-curriculum/swift-deli-optionals
-                    uuid: ac94ba58-bc3c-456e-abb3-c20924ac1e95
-            -   title: Collection Types
-                uuid: a33c559f-b995-4b33-a414-5e8268ff27a9
-                contents:
-                -   title: Swift Collection Types
-                    source: https://github.com/learn-co-curriculum/swift-collection-types
-                    uuid: 662ebcb0-7697-44d6-9765-70b93ef585d6
-            -   title: WWDC Badges Collections
-                uuid: b3e350bc-6646-4c13-9a49-5d00bd647ebf
-                contents:
-                -   title: Swift Wwdc Badges Collections
-                    source: https://github.com/learn-co-curriculum/swift-wwdc-badges-collections
-                    uuid: 59700835-10ee-4297-88b4-b7cefedf6785
-        -   title: Custom Classes
-            uuid: bc5ebcb9-4613-4fec-b52c-2e2fb3a6635a
-            lessons:
-            -   title: Creating A File
-                uuid: 126a4f28-592c-4e5e-9b43-9a3c2e40e74d
-                contents:
-                -   title: Swift Creating A File
-                    source: https://github.com/learn-co-curriculum/swift-creating-a-file
-                    uuid: 8cce2b8b-b40f-4658-9f9c-d33e34f52921
-            -   title: Base Class
-                uuid: 01c39ac0-1f3c-4bad-bd39-1649aded8160
-                contents:
-                -   title: Swift Base Class
-                    source: https://github.com/learn-co-curriculum/swift-base-class
-                    uuid: 154c1e9e-7cbb-4881-aa0f-4279f40a3567
-            -   title: Boat
-                uuid: 6fa7e21a-8f1a-4919-8510-5951211c5f7f
-                contents:
-                -   title: Swift Boat
-                    source: https://github.com/learn-co-curriculum/swift-boat
-                    uuid: 1f722284-4517-447d-bc87-068fa55238f9
-            -   title: Methods
-                uuid: 1722df13-544f-4526-bf3e-fdb35edf79f3
-                contents:
-                -   title: Swift Methods
-                    source: https://github.com/learn-co-curriculum/swift-methods
-                    uuid: 1fb0cbe7-e014-48a3-8f70-762a2b121eff
-            -   title: Shopping Cart
-                uuid: 018877a9-b39d-4e69-b86b-6740448e1c6a
-                contents:
-                -   title: Swift Shopping Cart
-                    source: https://github.com/learn-co-curriculum/swift-shopping-cart
-                    uuid: e4fc65aa-84c9-48ed-818d-71781a4b1501
-            -   title: Calculated Property
-                uuid: ffe1d340-522d-465a-b6d3-7ac9fe67e251
-                contents:
-                -   title: Swift Calculated Property
-                    source: https://github.com/learn-co-curriculum/swift-calculated-property
-                    uuid: 003db39c-56cf-40fb-ac4e-f1faae1b6982
-            -   title: People
-                uuid: 8725dce8-d3fc-4f60-973b-8943fdb0e750
-                contents:
-                -   title: Swift People
-                    source: https://github.com/learn-co-curriculum/swift-people
-                    uuid: 9f090583-d421-44f2-a032-32e3b82d8c62
-            -   title: Optional Property
-                uuid: a19e10b3-07ac-4421-9d79-d763559cc975
-                contents:
-                -   title: Swift Optional Property
-                    source: https://github.com/learn-co-curriculum/swift-optional-property
-                    uuid: 9e3ec433-d06b-4902-b9c5-22926b58ea50
-        -   title: Inheritance
-            uuid: 1b94846a-fbf1-429b-aee6-c47e0e01eeb1
-            lessons:
-            -   title: Inheritance Basics
-                uuid: e3a0a4b5-6e71-41ec-bba7-e0a98e5b0970
-                contents:
-                -   title: Swift Inheritance Basics
-                    source: https://github.com/learn-co-curriculum/swift-inheritance-basics
-                    uuid: 9324d624-561a-4695-8a12-88c35a61e05b
-            -   title: Subclass Initializers
-                uuid: a0040139-b3ff-4946-95ed-85f56c249797
-                contents:
-                -   title: Swift Subclass Initializers
-                    source: https://github.com/learn-co-curriculum/swift-subclass-initializers
-                    uuid: 8c9ac5e4-e209-496c-85d5-63894e441a69
-            -   title: Vehicle
-                uuid: 2a6e102e-f3cd-4603-8c51-ea57efa01717
-                contents:
-                -   title: Swift Vehicle
-                    source: https://github.com/learn-co-curriculum/swift-vehicle
-                    uuid: 0d959678-6fd8-41a2-8381-5fc94952076d
-            -   title: Blackjack
-                uuid: f8b00f24-ef50-4f0d-af49-319909459573
-                contents:
-                -   title: Swift Blackjack
-                    source: https://github.com/learn-co-curriculum/swift-blackjack
-                    uuid: 428af236-223f-4aa8-88cf-b690fe5ccda1
-            -   title: Blackjack Views
-                uuid: 1755b11c-2808-49c0-9d49-512a8c62ce48
-                contents:
-                -   title: Swift Blackjack Views
-                    source: https://github.com/learn-co-curriculum/swift-blackjack-views
-                    uuid: 8947812c-b286-4d1b-87c4-7922cc6232e5
